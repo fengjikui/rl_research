@@ -1,0 +1,10 @@
+{
+  "selected_step": 10,
+  "validation_n": 32,
+  "validation_success": 0.90625,
+  "baseline_validation_success": 0.40625,
+  "selected_at": "2026-09-14T00:01:09.792980+08:00",
+  "reason": "validation target met; freeze before final test",
+  "adapter_sha256": "8888d640f440721812ea3fc27f695530f5da2239f59b2c57eafdb368930339d6",
+  "test_used_for_selection": false
+}

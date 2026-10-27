@@ -1,0 +1,2562 @@
+[
+  {
+    "index": 0,
+    "id": "2305",
+    "prompt": "Reverse the digits of 2305. Reply with only the reversed digits.",
+    "answer": "5032",
+    "before": "5032",
+    "after": "5032",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 1,
+    "id": "2164",
+    "prompt": "Reverse the digits of 2164. Reply with only the reversed digits.",
+    "answer": "4612",
+    "before": "4612",
+    "after": "4612",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 2,
+    "id": "8302",
+    "prompt": "Reverse the digits of 8302. Reply with only the reversed digits.",
+    "answer": "2038",
+    "before": "0203",
+    "after": "2030",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 3,
+    "id": "8308",
+    "prompt": "Reverse the digits of 8308. Reply with only the reversed digits.",
+    "answer": "8038",
+    "before": "0808",
+    "after": "8030",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 4,
+    "id": "5966",
+    "prompt": "Reverse the digits of 5966. Reply with only the reversed digits.",
+    "answer": "6695",
+    "before": "6695",
+    "after": "6695",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 5,
+    "id": "3800",
+    "prompt": "Reverse the digits of 3800. Reply with only the reversed digits.",
+    "answer": "0083",
+    "before": "0830",
+    "after": "0834",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 6,
+    "id": "9701",
+    "prompt": "Reverse the digits of 9701. Reply with only the reversed digits.",
+    "answer": "1079",
+    "before": "0179",
+    "after": "1079",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 7,
+    "id": "4124",
+    "prompt": "Reverse the digits of 4124. Reply with only the reversed digits.",
+    "answer": "4214",
+    "before": "124",
+    "after": "4214",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 8,
+    "id": "1555",
+    "prompt": "Reverse the digits of 1555. Reply with only the reversed digits.",
+    "answer": "5551",
+    "before": "5515",
+    "after": "5551",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 9,
+    "id": "5328",
+    "prompt": "Reverse the digits of 5328. Reply with only the reversed digits.",
+    "answer": "8235",
+    "before": "8235",
+    "after": "8235",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 10,
+    "id": "1191",
+    "prompt": "Reverse the digits of 1191. Reply with only the reversed digits.",
+    "answer": "1911",
+    "before": "191",
+    "after": "1911",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 11,
+    "id": "8820",
+    "prompt": "Reverse the digits of 8820. Reply with only the reversed digits.",
+    "answer": "0288",
+    "before": "0288",
+    "after": "0288",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 12,
+    "id": "9073",
+    "prompt": "Reverse the digits of 9073. Reply with only the reversed digits.",
+    "answer": "3709",
+    "before": "7309",
+    "after": "3709",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 13,
+    "id": "9024",
+    "prompt": "Reverse the digits of 9024. Reply with only the reversed digits.",
+    "answer": "4209",
+    "before": "4209",
+    "after": "4209",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 14,
+    "id": "7739",
+    "prompt": "Reverse the digits of 7739. Reply with only the reversed digits.",
+    "answer": "9377",
+    "before": "9377",
+    "after": "9377",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 15,
+    "id": "8034",
+    "prompt": "Reverse the digits of 8034. Reply with only the reversed digits.",
+    "answer": "4308",
+    "before": "4308",
+    "after": "4308",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 16,
+    "id": "6973",
+    "prompt": "Reverse the digits of 6973. Reply with only the reversed digits.",
+    "answer": "3796",
+    "before": "7396",
+    "after": "3796",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 17,
+    "id": "4286",
+    "prompt": "Reverse the digits of 4286. Reply with only the reversed digits.",
+    "answer": "6824",
+    "before": "6824",
+    "after": "6824",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 18,
+    "id": "2065",
+    "prompt": "Reverse the digits of 2065. Reply with only the reversed digits.",
+    "answer": "5602",
+    "before": "5602",
+    "after": "5602",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 19,
+    "id": "7220",
+    "prompt": "Reverse the digits of 7220. Reply with only the reversed digits.",
+    "answer": "0227",
+    "before": "0227",
+    "after": "0227",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 20,
+    "id": "7662",
+    "prompt": "Reverse the digits of 7662. Reply with only the reversed digits.",
+    "answer": "2667",
+    "before": "6267",
+    "after": "2667",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 21,
+    "id": "7292",
+    "prompt": "Reverse the digits of 7292. Reply with only the reversed digits.",
+    "answer": "2927",
+    "before": "9227",
+    "after": "2927",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 22,
+    "id": "8370",
+    "prompt": "Reverse the digits of 8370. Reply with only the reversed digits.",
+    "answer": "0738",
+    "before": "0738",
+    "after": "0738",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 23,
+    "id": "5340",
+    "prompt": "Reverse the digits of 5340. Reply with only the reversed digits.",
+    "answer": "0435",
+    "before": "0435",
+    "after": "0435",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 24,
+    "id": "1167",
+    "prompt": "Reverse the digits of 1167. Reply with only the reversed digits.",
+    "answer": "7611",
+    "before": "1761",
+    "after": "7611",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 25,
+    "id": "7612",
+    "prompt": "Reverse the digits of 7612. Reply with only the reversed digits.",
+    "answer": "2167",
+    "before": "1267",
+    "after": "2167",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 26,
+    "id": "3671",
+    "prompt": "Reverse the digits of 3671. Reply with only the reversed digits.",
+    "answer": "1763",
+    "before": "1763",
+    "after": "1763",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 27,
+    "id": "7931",
+    "prompt": "Reverse the digits of 7931. Reply with only the reversed digits.",
+    "answer": "1397",
+    "before": "1397",
+    "after": "1397",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 28,
+    "id": "4135",
+    "prompt": "Reverse the digits of 4135. Reply with only the reversed digits.",
+    "answer": "5314",
+    "before": "5314",
+    "after": "5314",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 29,
+    "id": "6319",
+    "prompt": "Reverse the digits of 6319. Reply with only the reversed digits.",
+    "answer": "9136",
+    "before": "1936",
+    "after": "9136",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 30,
+    "id": "6403",
+    "prompt": "Reverse the digits of 6403. Reply with only the reversed digits.",
+    "answer": "3046",
+    "before": "03046",
+    "after": "3046",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 31,
+    "id": "7540",
+    "prompt": "Reverse the digits of 7540. Reply with only the reversed digits.",
+    "answer": "0457",
+    "before": "0457",
+    "after": "0457",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 32,
+    "id": "9170",
+    "prompt": "Reverse the digits of 9170. Reply with only the reversed digits.",
+    "answer": "0719",
+    "before": "0719",
+    "after": "0719",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 33,
+    "id": "9408",
+    "prompt": "Reverse the digits of 9408. Reply with only the reversed digits.",
+    "answer": "8049",
+    "before": "0804",
+    "after": "8049",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 34,
+    "id": "9801",
+    "prompt": "Reverse the digits of 9801. Reply with only the reversed digits.",
+    "answer": "1089",
+    "before": "108",
+    "after": "1089",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 35,
+    "id": "1847",
+    "prompt": "Reverse the digits of 1847. Reply with only the reversed digits.",
+    "answer": "7481",
+    "before": "741",
+    "after": "7481",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 36,
+    "id": "5792",
+    "prompt": "Reverse the digits of 5792. Reply with only the reversed digits.",
+    "answer": "2975",
+    "before": "9275",
+    "after": "2975",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 37,
+    "id": "4654",
+    "prompt": "Reverse the digits of 4654. Reply with only the reversed digits.",
+    "answer": "4564",
+    "before": "5464",
+    "after": "4564",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 38,
+    "id": "4831",
+    "prompt": "Reverse the digits of 4831. Reply with only the reversed digits.",
+    "answer": "1384",
+    "before": "134",
+    "after": "1384",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 39,
+    "id": "3310",
+    "prompt": "Reverse the digits of 3310. Reply with only the reversed digits.",
+    "answer": "0133",
+    "before": "1033",
+    "after": "0133",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 40,
+    "id": "4115",
+    "prompt": "Reverse the digits of 4115. Reply with only the reversed digits.",
+    "answer": "5114",
+    "before": "1514",
+    "after": "5114",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 41,
+    "id": "5371",
+    "prompt": "Reverse the digits of 5371. Reply with only the reversed digits.",
+    "answer": "1735",
+    "before": "1735",
+    "after": "1735",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 42,
+    "id": "2641",
+    "prompt": "Reverse the digits of 2641. Reply with only the reversed digits.",
+    "answer": "1462",
+    "before": "1462",
+    "after": "1462",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 43,
+    "id": "6071",
+    "prompt": "Reverse the digits of 6071. Reply with only the reversed digits.",
+    "answer": "1706",
+    "before": "1076",
+    "after": "1706",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 44,
+    "id": "3364",
+    "prompt": "Reverse the digits of 3364. Reply with only the reversed digits.",
+    "answer": "4633",
+    "before": "463",
+    "after": "4633",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 45,
+    "id": "6108",
+    "prompt": "Reverse the digits of 6108. Reply with only the reversed digits.",
+    "answer": "8016",
+    "before": "108",
+    "after": "8001",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 46,
+    "id": "1628",
+    "prompt": "Reverse the digits of 1628. Reply with only the reversed digits.",
+    "answer": "8261",
+    "before": "8621",
+    "after": "8261",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 47,
+    "id": "1046",
+    "prompt": "Reverse the digits of 1046. Reply with only the reversed digits.",
+    "answer": "6401",
+    "before": "641",
+    "after": "6401",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 48,
+    "id": "3774",
+    "prompt": "Reverse the digits of 3774. Reply with only the reversed digits.",
+    "answer": "4773",
+    "before": "7743",
+    "after": "4773",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 49,
+    "id": "9406",
+    "prompt": "Reverse the digits of 9406. Reply with only the reversed digits.",
+    "answer": "6049",
+    "before": "0649",
+    "after": "6049",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 50,
+    "id": "9698",
+    "prompt": "Reverse the digits of 9698. Reply with only the reversed digits.",
+    "answer": "8969",
+    "before": "8699",
+    "after": "8969",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 51,
+    "id": "6931",
+    "prompt": "Reverse the digits of 6931. Reply with only the reversed digits.",
+    "answer": "1396",
+    "before": "1396",
+    "after": "1396",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 52,
+    "id": "9413",
+    "prompt": "Reverse the digits of 9413. Reply with only the reversed digits.",
+    "answer": "3149",
+    "before": "1349",
+    "after": "3149",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 53,
+    "id": "9433",
+    "prompt": "Reverse the digits of 9433. Reply with only the reversed digits.",
+    "answer": "3349",
+    "before": "3349",
+    "after": "3349",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 54,
+    "id": "7315",
+    "prompt": "Reverse the digits of 7315. Reply with only the reversed digits.",
+    "answer": "5137",
+    "before": "5137",
+    "after": "5137",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 55,
+    "id": "6185",
+    "prompt": "Reverse the digits of 6185. Reply with only the reversed digits.",
+    "answer": "5816",
+    "before": "5861",
+    "after": "5816",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 56,
+    "id": "7296",
+    "prompt": "Reverse the digits of 7296. Reply with only the reversed digits.",
+    "answer": "6927",
+    "before": "6927",
+    "after": "6927",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 57,
+    "id": "7707",
+    "prompt": "Reverse the digits of 7707. Reply with only the reversed digits.",
+    "answer": "7077",
+    "before": "7007",
+    "after": "7007",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 58,
+    "id": "3235",
+    "prompt": "Reverse the digits of 3235. Reply with only the reversed digits.",
+    "answer": "5323",
+    "before": "5323",
+    "after": "5323",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 59,
+    "id": "7951",
+    "prompt": "Reverse the digits of 7951. Reply with only the reversed digits.",
+    "answer": "1597",
+    "before": "5197",
+    "after": "1597",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 60,
+    "id": "9853",
+    "prompt": "Reverse the digits of 9853. Reply with only the reversed digits.",
+    "answer": "3589",
+    "before": "5389",
+    "after": "3589",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 61,
+    "id": "6363",
+    "prompt": "Reverse the digits of 6363. Reply with only the reversed digits.",
+    "answer": "3636",
+    "before": "6336",
+    "after": "3636",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 62,
+    "id": "9756",
+    "prompt": "Reverse the digits of 9756. Reply with only the reversed digits.",
+    "answer": "6579",
+    "before": "6579",
+    "after": "6579",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 63,
+    "id": "8069",
+    "prompt": "Reverse the digits of 8069. Reply with only the reversed digits.",
+    "answer": "9608",
+    "before": "9068",
+    "after": "9608",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 64,
+    "id": "2189",
+    "prompt": "Reverse the digits of 2189. Reply with only the reversed digits.",
+    "answer": "9812",
+    "before": "8912",
+    "after": "9812",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 65,
+    "id": "4763",
+    "prompt": "Reverse the digits of 4763. Reply with only the reversed digits.",
+    "answer": "3674",
+    "before": "6374",
+    "after": "3674",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 66,
+    "id": "4781",
+    "prompt": "Reverse the digits of 4781. Reply with only the reversed digits.",
+    "answer": "1874",
+    "before": "8174",
+    "after": "1874",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 67,
+    "id": "7559",
+    "prompt": "Reverse the digits of 7559. Reply with only the reversed digits.",
+    "answer": "9557",
+    "before": "5957",
+    "after": "9557",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 68,
+    "id": "6473",
+    "prompt": "Reverse the digits of 6473. Reply with only the reversed digits.",
+    "answer": "3746",
+    "before": "7346",
+    "after": "3746",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 69,
+    "id": "2062",
+    "prompt": "Reverse the digits of 2062. Reply with only the reversed digits.",
+    "answer": "2602",
+    "before": "2062 reversed is 2",
+    "after": "2206",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 70,
+    "id": "6873",
+    "prompt": "Reverse the digits of 6873. Reply with only the reversed digits.",
+    "answer": "3786",
+    "before": "7368",
+    "after": "3786",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 71,
+    "id": "8630",
+    "prompt": "Reverse the digits of 8630. Reply with only the reversed digits.",
+    "answer": "0368",
+    "before": "0368",
+    "after": "0368",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 72,
+    "id": "3400",
+    "prompt": "Reverse the digits of 3400. Reply with only the reversed digits.",
+    "answer": "0043",
+    "before": "043",
+    "after": "043",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 73,
+    "id": "4284",
+    "prompt": "Reverse the digits of 4284. Reply with only the reversed digits.",
+    "answer": "4824",
+    "before": "8424",
+    "after": "4284",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 74,
+    "id": "7218",
+    "prompt": "Reverse the digits of 7218. Reply with only the reversed digits.",
+    "answer": "8127",
+    "before": "8127",
+    "after": "8127",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 75,
+    "id": "5446",
+    "prompt": "Reverse the digits of 5446. Reply with only the reversed digits.",
+    "answer": "6445",
+    "before": "6445",
+    "after": "6445",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 76,
+    "id": "2219",
+    "prompt": "Reverse the digits of 2219. Reply with only the reversed digits.",
+    "answer": "9122",
+    "before": "1922",
+    "after": "9122",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 77,
+    "id": "7567",
+    "prompt": "Reverse the digits of 7567. Reply with only the reversed digits.",
+    "answer": "7657",
+    "before": "6757",
+    "after": "7657",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 78,
+    "id": "5325",
+    "prompt": "Reverse the digits of 5325. Reply with only the reversed digits.",
+    "answer": "5235",
+    "before": "2535",
+    "after": "5235",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 79,
+    "id": "1308",
+    "prompt": "Reverse the digits of 1308. Reply with only the reversed digits.",
+    "answer": "8031",
+    "before": "0803",
+    "after": "8031",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 80,
+    "id": "3742",
+    "prompt": "Reverse the digits of 3742. Reply with only the reversed digits.",
+    "answer": "2473",
+    "before": "2473",
+    "after": "2473",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 81,
+    "id": "9081",
+    "prompt": "Reverse the digits of 9081. Reply with only the reversed digits.",
+    "answer": "1809",
+    "before": "1809",
+    "after": "1809",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 82,
+    "id": "3815",
+    "prompt": "Reverse the digits of 3815. Reply with only the reversed digits.",
+    "answer": "5183",
+    "before": "5183",
+    "after": "5183",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 83,
+    "id": "7394",
+    "prompt": "Reverse the digits of 7394. Reply with only the reversed digits.",
+    "answer": "4937",
+    "before": "9437",
+    "after": "4937",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 84,
+    "id": "4506",
+    "prompt": "Reverse the digits of 4506. Reply with only the reversed digits.",
+    "answer": "6054",
+    "before": "6054",
+    "after": "6054",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 85,
+    "id": "1486",
+    "prompt": "Reverse the digits of 1486. Reply with only the reversed digits.",
+    "answer": "6841",
+    "before": "6841",
+    "after": "6841",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 86,
+    "id": "3020",
+    "prompt": "Reverse the digits of 3020. Reply with only the reversed digits.",
+    "answer": "0203",
+    "before": "0203",
+    "after": "0203",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 87,
+    "id": "4392",
+    "prompt": "Reverse the digits of 4392. Reply with only the reversed digits.",
+    "answer": "2934",
+    "before": "2934",
+    "after": "2934",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 88,
+    "id": "6307",
+    "prompt": "Reverse the digits of 6307. Reply with only the reversed digits.",
+    "answer": "7036",
+    "before": "7036",
+    "after": "7036",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 89,
+    "id": "2337",
+    "prompt": "Reverse the digits of 2337. Reply with only the reversed digits.",
+    "answer": "7332",
+    "before": "7332",
+    "after": "7332",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 90,
+    "id": "3966",
+    "prompt": "Reverse the digits of 3966. Reply with only the reversed digits.",
+    "answer": "6693",
+    "before": "6693",
+    "after": "6699",
+    "before_correct": true,
+    "after_correct": false
+  },
+  {
+    "index": 91,
+    "id": "5574",
+    "prompt": "Reverse the digits of 5574. Reply with only the reversed digits.",
+    "answer": "4755",
+    "before": "4755",
+    "after": "4755",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 92,
+    "id": "4172",
+    "prompt": "Reverse the digits of 4172. Reply with only the reversed digits.",
+    "answer": "2714",
+    "before": "2714",
+    "after": "2714",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 93,
+    "id": "8280",
+    "prompt": "Reverse the digits of 8280. Reply with only the reversed digits.",
+    "answer": "0828",
+    "before": "0820",
+    "after": "0828",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 94,
+    "id": "4011",
+    "prompt": "Reverse the digits of 4011. Reply with only the reversed digits.",
+    "answer": "1104",
+    "before": "1104",
+    "after": "1104",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 95,
+    "id": "8764",
+    "prompt": "Reverse the digits of 8764. Reply with only the reversed digits.",
+    "answer": "4678",
+    "before": "6478",
+    "after": "4678",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 96,
+    "id": "7434",
+    "prompt": "Reverse the digits of 7434. Reply with only the reversed digits.",
+    "answer": "4347",
+    "before": "4347",
+    "after": "4347",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 97,
+    "id": "4758",
+    "prompt": "Reverse the digits of 4758. Reply with only the reversed digits.",
+    "answer": "8574",
+    "before": "8574",
+    "after": "8574",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 98,
+    "id": "7878",
+    "prompt": "Reverse the digits of 7878. Reply with only the reversed digits.",
+    "answer": "8787",
+    "before": "7878 becomes 87",
+    "after": "8787",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 99,
+    "id": "2957",
+    "prompt": "Reverse the digits of 2957. Reply with only the reversed digits.",
+    "answer": "7592",
+    "before": "5792",
+    "after": "7592",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 100,
+    "id": "9565",
+    "prompt": "Reverse the digits of 9565. Reply with only the reversed digits.",
+    "answer": "5659",
+    "before": "5659",
+    "after": "5659",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 101,
+    "id": "9816",
+    "prompt": "Reverse the digits of 9816. Reply with only the reversed digits.",
+    "answer": "6189",
+    "before": "6189",
+    "after": "6189",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 102,
+    "id": "2355",
+    "prompt": "Reverse the digits of 2355. Reply with only the reversed digits.",
+    "answer": "5532",
+    "before": "5532",
+    "after": "5532",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 103,
+    "id": "5901",
+    "prompt": "Reverse the digits of 5901. Reply with only the reversed digits.",
+    "answer": "1095",
+    "before": "1095",
+    "after": "1095",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 104,
+    "id": "4571",
+    "prompt": "Reverse the digits of 4571. Reply with only the reversed digits.",
+    "answer": "1754",
+    "before": "1754",
+    "after": "1754",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 105,
+    "id": "4399",
+    "prompt": "Reverse the digits of 4399. Reply with only the reversed digits.",
+    "answer": "9934",
+    "before": "9934",
+    "after": "9934",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 106,
+    "id": "6945",
+    "prompt": "Reverse the digits of 6945. Reply with only the reversed digits.",
+    "answer": "5496",
+    "before": "5496",
+    "after": "5496",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 107,
+    "id": "5080",
+    "prompt": "Reverse the digits of 5080. Reply with only the reversed digits.",
+    "answer": "0805",
+    "before": "0805",
+    "after": "0805",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 108,
+    "id": "7510",
+    "prompt": "Reverse the digits of 7510. Reply with only the reversed digits.",
+    "answer": "0157",
+    "before": "0157",
+    "after": "0157",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 109,
+    "id": "5812",
+    "prompt": "Reverse the digits of 5812. Reply with only the reversed digits.",
+    "answer": "2185",
+    "before": "1258",
+    "after": "2185",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 110,
+    "id": "5538",
+    "prompt": "Reverse the digits of 5538. Reply with only the reversed digits.",
+    "answer": "8355",
+    "before": "8355",
+    "after": "8355",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 111,
+    "id": "6115",
+    "prompt": "Reverse the digits of 6115. Reply with only the reversed digits.",
+    "answer": "5116",
+    "before": "1516",
+    "after": "5116",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 112,
+    "id": "9507",
+    "prompt": "Reverse the digits of 9507. Reply with only the reversed digits.",
+    "answer": "7059",
+    "before": "507",
+    "after": "7059",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 113,
+    "id": "5866",
+    "prompt": "Reverse the digits of 5866. Reply with only the reversed digits.",
+    "answer": "6685",
+    "before": "6685",
+    "after": "6685",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 114,
+    "id": "3502",
+    "prompt": "Reverse the digits of 3502. Reply with only the reversed digits.",
+    "answer": "2053",
+    "before": "2053",
+    "after": "2053",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 115,
+    "id": "3309",
+    "prompt": "Reverse the digits of 3309. Reply with only the reversed digits.",
+    "answer": "9033",
+    "before": "0903",
+    "after": "9003",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 116,
+    "id": "1043",
+    "prompt": "Reverse the digits of 1043. Reply with only the reversed digits.",
+    "answer": "3401",
+    "before": "1304",
+    "after": "3401",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 117,
+    "id": "9083",
+    "prompt": "Reverse the digits of 9083. Reply with only the reversed digits.",
+    "answer": "3809",
+    "before": "8309",
+    "after": "3809",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 118,
+    "id": "2445",
+    "prompt": "Reverse the digits of 2445. Reply with only the reversed digits.",
+    "answer": "5442",
+    "before": "5442",
+    "after": "5442",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 119,
+    "id": "9692",
+    "prompt": "Reverse the digits of 9692. Reply with only the reversed digits.",
+    "answer": "2969",
+    "before": "9269",
+    "after": "2296",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 120,
+    "id": "2896",
+    "prompt": "Reverse the digits of 2896. Reply with only the reversed digits.",
+    "answer": "6982",
+    "before": "6982",
+    "after": "6982",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 121,
+    "id": "5756",
+    "prompt": "Reverse the digits of 5756. Reply with only the reversed digits.",
+    "answer": "6575",
+    "before": "6557",
+    "after": "6575",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 122,
+    "id": "7755",
+    "prompt": "Reverse the digits of 7755. Reply with only the reversed digits.",
+    "answer": "5577",
+    "before": "5557",
+    "after": "5557",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 123,
+    "id": "9398",
+    "prompt": "Reverse the digits of 9398. Reply with only the reversed digits.",
+    "answer": "8939",
+    "before": "8939",
+    "after": "8939",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 124,
+    "id": "4601",
+    "prompt": "Reverse the digits of 4601. Reply with only the reversed digits.",
+    "answer": "1064",
+    "before": "1064",
+    "after": "1064",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 125,
+    "id": "1414",
+    "prompt": "Reverse the digits of 1414. Reply with only the reversed digits.",
+    "answer": "4141",
+    "before": "1414",
+    "after": "4141",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 126,
+    "id": "5455",
+    "prompt": "Reverse the digits of 5455. Reply with only the reversed digits.",
+    "answer": "5545",
+    "before": "5555",
+    "after": "5545",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 127,
+    "id": "1654",
+    "prompt": "Reverse the digits of 1654. Reply with only the reversed digits.",
+    "answer": "4561",
+    "before": "5416",
+    "after": "4561",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 128,
+    "id": "5930",
+    "prompt": "Reverse the digits of 5930. Reply with only the reversed digits.",
+    "answer": "0395",
+    "before": "0395",
+    "after": "0395",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 129,
+    "id": "8444",
+    "prompt": "Reverse the digits of 8444. Reply with only the reversed digits.",
+    "answer": "4448",
+    "before": "4448",
+    "after": "4448",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 130,
+    "id": "1867",
+    "prompt": "Reverse the digits of 1867. Reply with only the reversed digits.",
+    "answer": "7681",
+    "before": "6781",
+    "after": "7681",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 131,
+    "id": "8582",
+    "prompt": "Reverse the digits of 8582. Reply with only the reversed digits.",
+    "answer": "2858",
+    "before": "8258",
+    "after": "2858",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 132,
+    "id": "8774",
+    "prompt": "Reverse the digits of 8774. Reply with only the reversed digits.",
+    "answer": "4778",
+    "before": "4778",
+    "after": "4778",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 133,
+    "id": "7262",
+    "prompt": "Reverse the digits of 7262. Reply with only the reversed digits.",
+    "answer": "2627",
+    "before": "6227",
+    "after": "2627",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 134,
+    "id": "9201",
+    "prompt": "Reverse the digits of 9201. Reply with only the reversed digits.",
+    "answer": "1029",
+    "before": "102",
+    "after": "1029",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 135,
+    "id": "2420",
+    "prompt": "Reverse the digits of 2420. Reply with only the reversed digits.",
+    "answer": "0242",
+    "before": "0242",
+    "after": "0242",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 136,
+    "id": "8263",
+    "prompt": "Reverse the digits of 8263. Reply with only the reversed digits.",
+    "answer": "3628",
+    "before": "6328",
+    "after": "3628",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 137,
+    "id": "6788",
+    "prompt": "Reverse the digits of 6788. Reply with only the reversed digits.",
+    "answer": "8876",
+    "before": "8876",
+    "after": "8876",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 138,
+    "id": "3578",
+    "prompt": "Reverse the digits of 3578. Reply with only the reversed digits.",
+    "answer": "8753",
+    "before": "8753",
+    "after": "8753",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 139,
+    "id": "5030",
+    "prompt": "Reverse the digits of 5030. Reply with only the reversed digits.",
+    "answer": "0305",
+    "before": "0305",
+    "after": "0305",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 140,
+    "id": "8433",
+    "prompt": "Reverse the digits of 8433. Reply with only the reversed digits.",
+    "answer": "3348",
+    "before": "3348",
+    "after": "3348",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 141,
+    "id": "5971",
+    "prompt": "Reverse the digits of 5971. Reply with only the reversed digits.",
+    "answer": "1795",
+    "before": "1795",
+    "after": "1795",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 142,
+    "id": "6385",
+    "prompt": "Reverse the digits of 6385. Reply with only the reversed digits.",
+    "answer": "5836",
+    "before": "5836",
+    "after": "5836",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 143,
+    "id": "5169",
+    "prompt": "Reverse the digits of 5169. Reply with only the reversed digits.",
+    "answer": "9615",
+    "before": "1695",
+    "after": "9615",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 144,
+    "id": "5965",
+    "prompt": "Reverse the digits of 5965. Reply with only the reversed digits.",
+    "answer": "5695",
+    "before": "5695",
+    "after": "5695",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 145,
+    "id": "8821",
+    "prompt": "Reverse the digits of 8821. Reply with only the reversed digits.",
+    "answer": "1288",
+    "before": "128",
+    "after": "1288",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 146,
+    "id": "2654",
+    "prompt": "Reverse the digits of 2654. Reply with only the reversed digits.",
+    "answer": "4562",
+    "before": "5462",
+    "after": "4562",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 147,
+    "id": "4114",
+    "prompt": "Reverse the digits of 4114. Reply with only the reversed digits.",
+    "answer": "4114",
+    "before": "1414",
+    "after": "4114",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 148,
+    "id": "6894",
+    "prompt": "Reverse the digits of 6894. Reply with only the reversed digits.",
+    "answer": "4986",
+    "before": "4968",
+    "after": "4986",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 149,
+    "id": "6117",
+    "prompt": "Reverse the digits of 6117. Reply with only the reversed digits.",
+    "answer": "7116",
+    "before": "1711",
+    "after": "7116",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 150,
+    "id": "8954",
+    "prompt": "Reverse the digits of 8954. Reply with only the reversed digits.",
+    "answer": "4598",
+    "before": "4598",
+    "after": "4598",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 151,
+    "id": "9388",
+    "prompt": "Reverse the digits of 9388. Reply with only the reversed digits.",
+    "answer": "8839",
+    "before": "8889",
+    "after": "8889",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 152,
+    "id": "2890",
+    "prompt": "Reverse the digits of 2890. Reply with only the reversed digits.",
+    "answer": "0982",
+    "before": "0982",
+    "after": "0982",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 153,
+    "id": "7460",
+    "prompt": "Reverse the digits of 7460. Reply with only the reversed digits.",
+    "answer": "0647",
+    "before": "0647",
+    "after": "0647",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 154,
+    "id": "8573",
+    "prompt": "Reverse the digits of 8573. Reply with only the reversed digits.",
+    "answer": "3758",
+    "before": "7358",
+    "after": "3758",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 155,
+    "id": "9977",
+    "prompt": "Reverse the digits of 9977. Reply with only the reversed digits.",
+    "answer": "7799",
+    "before": "7779",
+    "after": "7779",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 156,
+    "id": "1309",
+    "prompt": "Reverse the digits of 1309. Reply with only the reversed digits.",
+    "answer": "9031",
+    "before": "0903",
+    "after": "9031",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 157,
+    "id": "9418",
+    "prompt": "Reverse the digits of 9418. Reply with only the reversed digits.",
+    "answer": "8149",
+    "before": "8149",
+    "after": "8149",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 158,
+    "id": "8802",
+    "prompt": "Reverse the digits of 8802. Reply with only the reversed digits.",
+    "answer": "2088",
+    "before": "0288",
+    "after": "2088",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 159,
+    "id": "1245",
+    "prompt": "Reverse the digits of 1245. Reply with only the reversed digits.",
+    "answer": "5421",
+    "before": "5421",
+    "after": "5421",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 160,
+    "id": "2316",
+    "prompt": "Reverse the digits of 2316. Reply with only the reversed digits.",
+    "answer": "6132",
+    "before": "1632",
+    "after": "6132",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 161,
+    "id": "2563",
+    "prompt": "Reverse the digits of 2563. Reply with only the reversed digits.",
+    "answer": "3652",
+    "before": "3652",
+    "after": "3652",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 162,
+    "id": "2912",
+    "prompt": "Reverse the digits of 2912. Reply with only the reversed digits.",
+    "answer": "2192",
+    "before": "1292",
+    "after": "219",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 163,
+    "id": "6546",
+    "prompt": "Reverse the digits of 6546. Reply with only the reversed digits.",
+    "answer": "6456",
+    "before": "6546",
+    "after": "6456",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 164,
+    "id": "6275",
+    "prompt": "Reverse the digits of 6275. Reply with only the reversed digits.",
+    "answer": "5726",
+    "before": "5726",
+    "after": "5726",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 165,
+    "id": "7191",
+    "prompt": "Reverse the digits of 7191. Reply with only the reversed digits.",
+    "answer": "1917",
+    "before": "191",
+    "after": "1917",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 166,
+    "id": "5773",
+    "prompt": "Reverse the digits of 5773. Reply with only the reversed digits.",
+    "answer": "3775",
+    "before": "7375",
+    "after": "3775",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 167,
+    "id": "2318",
+    "prompt": "Reverse the digits of 2318. Reply with only the reversed digits.",
+    "answer": "8132",
+    "before": "1823",
+    "after": "8132",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 168,
+    "id": "8214",
+    "prompt": "Reverse the digits of 8214. Reply with only the reversed digits.",
+    "answer": "4128",
+    "before": "1428",
+    "after": "4128",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 169,
+    "id": "3383",
+    "prompt": "Reverse the digits of 3383. Reply with only the reversed digits.",
+    "answer": "3833",
+    "before": "8333",
+    "after": "3833",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 170,
+    "id": "7653",
+    "prompt": "Reverse the digits of 7653. Reply with only the reversed digits.",
+    "answer": "3567",
+    "before": "3567",
+    "after": "3567",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 171,
+    "id": "6067",
+    "prompt": "Reverse the digits of 6067. Reply with only the reversed digits.",
+    "answer": "7606",
+    "before": "6706",
+    "after": "7706",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 172,
+    "id": "9364",
+    "prompt": "Reverse the digits of 9364. Reply with only the reversed digits.",
+    "answer": "4639",
+    "before": "4639",
+    "after": "4639",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 173,
+    "id": "3839",
+    "prompt": "Reverse the digits of 3839. Reply with only the reversed digits.",
+    "answer": "9383",
+    "before": "839",
+    "after": "9383",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 174,
+    "id": "6439",
+    "prompt": "Reverse the digits of 6439. Reply with only the reversed digits.",
+    "answer": "9346",
+    "before": "9346",
+    "after": "9346",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 175,
+    "id": "8273",
+    "prompt": "Reverse the digits of 8273. Reply with only the reversed digits.",
+    "answer": "3728",
+    "before": "7328",
+    "after": "3728",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 176,
+    "id": "1742",
+    "prompt": "Reverse the digits of 1742. Reply with only the reversed digits.",
+    "answer": "2471",
+    "before": "1247",
+    "after": "2471",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 177,
+    "id": "8260",
+    "prompt": "Reverse the digits of 8260. Reply with only the reversed digits.",
+    "answer": "0628",
+    "before": "0628",
+    "after": "0628",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 178,
+    "id": "9455",
+    "prompt": "Reverse the digits of 9455. Reply with only the reversed digits.",
+    "answer": "5549",
+    "before": "5545",
+    "after": "5549",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 179,
+    "id": "8914",
+    "prompt": "Reverse the digits of 8914. Reply with only the reversed digits.",
+    "answer": "4198",
+    "before": "1498",
+    "after": "4198",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 180,
+    "id": "7729",
+    "prompt": "Reverse the digits of 7729. Reply with only the reversed digits.",
+    "answer": "9277",
+    "before": "9277",
+    "after": "9277",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 181,
+    "id": "4827",
+    "prompt": "Reverse the digits of 4827. Reply with only the reversed digits.",
+    "answer": "7284",
+    "before": "7284",
+    "after": "7284",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 182,
+    "id": "7996",
+    "prompt": "Reverse the digits of 7996. Reply with only the reversed digits.",
+    "answer": "6997",
+    "before": "6997",
+    "after": "6997",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 183,
+    "id": "2162",
+    "prompt": "Reverse the digits of 2162. Reply with only the reversed digits.",
+    "answer": "2612",
+    "before": "162",
+    "after": "2612",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 184,
+    "id": "7464",
+    "prompt": "Reverse the digits of 7464. Reply with only the reversed digits.",
+    "answer": "4647",
+    "before": "6447",
+    "after": "4647",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 185,
+    "id": "8878",
+    "prompt": "Reverse the digits of 8878. Reply with only the reversed digits.",
+    "answer": "8788",
+    "before": "8878 reversed is 8",
+    "after": "8788",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 186,
+    "id": "5695",
+    "prompt": "Reverse the digits of 5695. Reply with only the reversed digits.",
+    "answer": "5965",
+    "before": "5695 reversed is 5",
+    "after": "5965",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 187,
+    "id": "4693",
+    "prompt": "Reverse the digits of 4693. Reply with only the reversed digits.",
+    "answer": "3964",
+    "before": "9364",
+    "after": "3964",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 188,
+    "id": "7963",
+    "prompt": "Reverse the digits of 7963. Reply with only the reversed digits.",
+    "answer": "3697",
+    "before": "7369",
+    "after": "3697",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 189,
+    "id": "2019",
+    "prompt": "Reverse the digits of 2019. Reply with only the reversed digits.",
+    "answer": "9102",
+    "before": "1902",
+    "after": "9102",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 190,
+    "id": "6527",
+    "prompt": "Reverse the digits of 6527. Reply with only the reversed digits.",
+    "answer": "7256",
+    "before": "7526",
+    "after": "7256",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 191,
+    "id": "9197",
+    "prompt": "Reverse the digits of 9197. Reply with only the reversed digits.",
+    "answer": "7919",
+    "before": "7919",
+    "after": "7919",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 192,
+    "id": "8099",
+    "prompt": "Reverse the digits of 8099. Reply with only the reversed digits.",
+    "answer": "9908",
+    "before": "9008",
+    "after": "9908",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 193,
+    "id": "1670",
+    "prompt": "Reverse the digits of 1670. Reply with only the reversed digits.",
+    "answer": "0761",
+    "before": "0761",
+    "after": "0761",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 194,
+    "id": "6646",
+    "prompt": "Reverse the digits of 6646. Reply with only the reversed digits.",
+    "answer": "6466",
+    "before": "6646 reversed is 6",
+    "after": "6466",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 195,
+    "id": "5569",
+    "prompt": "Reverse the digits of 5569. Reply with only the reversed digits.",
+    "answer": "9655",
+    "before": "9655",
+    "after": "9655",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 196,
+    "id": "9839",
+    "prompt": "Reverse the digits of 9839. Reply with only the reversed digits.",
+    "answer": "9389",
+    "before": "9389",
+    "after": "9389",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 197,
+    "id": "7902",
+    "prompt": "Reverse the digits of 7902. Reply with only the reversed digits.",
+    "answer": "2097",
+    "before": "0297",
+    "after": "2097",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 198,
+    "id": "2312",
+    "prompt": "Reverse the digits of 2312. Reply with only the reversed digits.",
+    "answer": "2132",
+    "before": "1232",
+    "after": "2132",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 199,
+    "id": "6561",
+    "prompt": "Reverse the digits of 6561. Reply with only the reversed digits.",
+    "answer": "1656",
+    "before": "165",
+    "after": "1656",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 200,
+    "id": "5974",
+    "prompt": "Reverse the digits of 5974. Reply with only the reversed digits.",
+    "answer": "4795",
+    "before": "4795",
+    "after": "4795",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 201,
+    "id": "2991",
+    "prompt": "Reverse the digits of 2991. Reply with only the reversed digits.",
+    "answer": "1992",
+    "before": "912",
+    "after": "1992",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 202,
+    "id": "5802",
+    "prompt": "Reverse the digits of 5802. Reply with only the reversed digits.",
+    "answer": "2085",
+    "before": "0205",
+    "after": "2085",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 203,
+    "id": "9846",
+    "prompt": "Reverse the digits of 9846. Reply with only the reversed digits.",
+    "answer": "6489",
+    "before": "648",
+    "after": "6489",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 204,
+    "id": "9894",
+    "prompt": "Reverse the digits of 9894. Reply with only the reversed digits.",
+    "answer": "4989",
+    "before": "9489",
+    "after": "4989",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 205,
+    "id": "8380",
+    "prompt": "Reverse the digits of 8380. Reply with only the reversed digits.",
+    "answer": "0838",
+    "before": "0838",
+    "after": "0838",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 206,
+    "id": "7801",
+    "prompt": "Reverse the digits of 7801. Reply with only the reversed digits.",
+    "answer": "1087",
+    "before": "1087",
+    "after": "1087",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 207,
+    "id": "9429",
+    "prompt": "Reverse the digits of 9429. Reply with only the reversed digits.",
+    "answer": "9249",
+    "before": "9241",
+    "after": "9249",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 208,
+    "id": "2591",
+    "prompt": "Reverse the digits of 2591. Reply with only the reversed digits.",
+    "answer": "1952",
+    "before": "1592",
+    "after": "1592",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 209,
+    "id": "8740",
+    "prompt": "Reverse the digits of 8740. Reply with only the reversed digits.",
+    "answer": "0478",
+    "before": "0478",
+    "after": "0478",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 210,
+    "id": "2342",
+    "prompt": "Reverse the digits of 2342. Reply with only the reversed digits.",
+    "answer": "2432",
+    "before": "1232",
+    "after": "2432",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 211,
+    "id": "3188",
+    "prompt": "Reverse the digits of 3188. Reply with only the reversed digits.",
+    "answer": "8813",
+    "before": "8813",
+    "after": "8813",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 212,
+    "id": "8037",
+    "prompt": "Reverse the digits of 8037. Reply with only the reversed digits.",
+    "answer": "7308",
+    "before": "7308",
+    "after": "7308",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 213,
+    "id": "1812",
+    "prompt": "Reverse the digits of 1812. Reply with only the reversed digits.",
+    "answer": "2181",
+    "before": "1218",
+    "after": "2181",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 214,
+    "id": "6989",
+    "prompt": "Reverse the digits of 6989. Reply with only the reversed digits.",
+    "answer": "9896",
+    "before": "8996",
+    "after": "9896",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 215,
+    "id": "2829",
+    "prompt": "Reverse the digits of 2829. Reply with only the reversed digits.",
+    "answer": "9282",
+    "before": "892",
+    "after": "9282",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 216,
+    "id": "6599",
+    "prompt": "Reverse the digits of 6599. Reply with only the reversed digits.",
+    "answer": "9956",
+    "before": "956",
+    "after": "9956",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 217,
+    "id": "6620",
+    "prompt": "Reverse the digits of 6620. Reply with only the reversed digits.",
+    "answer": "0266",
+    "before": "6620 reversed is 0",
+    "after": "0266",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 218,
+    "id": "1202",
+    "prompt": "Reverse the digits of 1202. Reply with only the reversed digits.",
+    "answer": "2021",
+    "before": "1202",
+    "after": "2021",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 219,
+    "id": "5323",
+    "prompt": "Reverse the digits of 5323. Reply with only the reversed digits.",
+    "answer": "3235",
+    "before": "2335",
+    "after": "3253",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 220,
+    "id": "5260",
+    "prompt": "Reverse the digits of 5260. Reply with only the reversed digits.",
+    "answer": "0625",
+    "before": "0625",
+    "after": "0625",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 221,
+    "id": "3168",
+    "prompt": "Reverse the digits of 3168. Reply with only the reversed digits.",
+    "answer": "8613",
+    "before": "8613",
+    "after": "8613",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 222,
+    "id": "5568",
+    "prompt": "Reverse the digits of 5568. Reply with only the reversed digits.",
+    "answer": "8655",
+    "before": "8655",
+    "after": "8655",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 223,
+    "id": "7919",
+    "prompt": "Reverse the digits of 7919. Reply with only the reversed digits.",
+    "answer": "9197",
+    "before": "9197",
+    "after": "9197",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 224,
+    "id": "6311",
+    "prompt": "Reverse the digits of 6311. Reply with only the reversed digits.",
+    "answer": "1136",
+    "before": "1136",
+    "after": "1136",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 225,
+    "id": "4395",
+    "prompt": "Reverse the digits of 4395. Reply with only the reversed digits.",
+    "answer": "5934",
+    "before": "5934",
+    "after": "5934",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 226,
+    "id": "2687",
+    "prompt": "Reverse the digits of 2687. Reply with only the reversed digits.",
+    "answer": "7862",
+    "before": "7682",
+    "after": "7862",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 227,
+    "id": "9795",
+    "prompt": "Reverse the digits of 9795. Reply with only the reversed digits.",
+    "answer": "5979",
+    "before": "5979",
+    "after": "5979",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 228,
+    "id": "7863",
+    "prompt": "Reverse the digits of 7863. Reply with only the reversed digits.",
+    "answer": "3687",
+    "before": "6387",
+    "after": "3687",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 229,
+    "id": "7604",
+    "prompt": "Reverse the digits of 7604. Reply with only the reversed digits.",
+    "answer": "4067",
+    "before": "0467",
+    "after": "4067",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 230,
+    "id": "6479",
+    "prompt": "Reverse the digits of 6479. Reply with only the reversed digits.",
+    "answer": "9746",
+    "before": "7946",
+    "after": "9746",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 231,
+    "id": "1625",
+    "prompt": "Reverse the digits of 1625. Reply with only the reversed digits.",
+    "answer": "5261",
+    "before": "521",
+    "after": "5261",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 232,
+    "id": "5329",
+    "prompt": "Reverse the digits of 5329. Reply with only the reversed digits.",
+    "answer": "9235",
+    "before": "9235",
+    "after": "9235",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 233,
+    "id": "5048",
+    "prompt": "Reverse the digits of 5048. Reply with only the reversed digits.",
+    "answer": "8405",
+    "before": "8405",
+    "after": "8405",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 234,
+    "id": "3673",
+    "prompt": "Reverse the digits of 3673. Reply with only the reversed digits.",
+    "answer": "3763",
+    "before": "7363",
+    "after": "3736",
+    "before_correct": false,
+    "after_correct": false
+  },
+  {
+    "index": 235,
+    "id": "3787",
+    "prompt": "Reverse the digits of 3787. Reply with only the reversed digits.",
+    "answer": "7873",
+    "before": "8773",
+    "after": "7873",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 236,
+    "id": "8186",
+    "prompt": "Reverse the digits of 8186. Reply with only the reversed digits.",
+    "answer": "6818",
+    "before": "6818",
+    "after": "6818",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 237,
+    "id": "6919",
+    "prompt": "Reverse the digits of 6919. Reply with only the reversed digits.",
+    "answer": "9196",
+    "before": "1996",
+    "after": "9196",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 238,
+    "id": "8815",
+    "prompt": "Reverse the digits of 8815. Reply with only the reversed digits.",
+    "answer": "5188",
+    "before": "5188",
+    "after": "5188",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 239,
+    "id": "5990",
+    "prompt": "Reverse the digits of 5990. Reply with only the reversed digits.",
+    "answer": "0995",
+    "before": "5909",
+    "after": "0995",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 240,
+    "id": "6383",
+    "prompt": "Reverse the digits of 6383. Reply with only the reversed digits.",
+    "answer": "3836",
+    "before": "8336",
+    "after": "3836",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 241,
+    "id": "2103",
+    "prompt": "Reverse the digits of 2103. Reply with only the reversed digits.",
+    "answer": "3012",
+    "before": "1032",
+    "after": "3012",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 242,
+    "id": "9587",
+    "prompt": "Reverse the digits of 9587. Reply with only the reversed digits.",
+    "answer": "7859",
+    "before": "7859",
+    "after": "7859",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 243,
+    "id": "5543",
+    "prompt": "Reverse the digits of 5543. Reply with only the reversed digits.",
+    "answer": "3455",
+    "before": "4355",
+    "after": "3455",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 244,
+    "id": "1660",
+    "prompt": "Reverse the digits of 1660. Reply with only the reversed digits.",
+    "answer": "0661",
+    "before": "1066",
+    "after": "0661",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 245,
+    "id": "9074",
+    "prompt": "Reverse the digits of 9074. Reply with only the reversed digits.",
+    "answer": "4709",
+    "before": "7409",
+    "after": "4709",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 246,
+    "id": "2837",
+    "prompt": "Reverse the digits of 2837. Reply with only the reversed digits.",
+    "answer": "7382",
+    "before": "7382",
+    "after": "7382",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 247,
+    "id": "6583",
+    "prompt": "Reverse the digits of 6583. Reply with only the reversed digits.",
+    "answer": "3856",
+    "before": "8356",
+    "after": "3856",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 248,
+    "id": "9397",
+    "prompt": "Reverse the digits of 9397. Reply with only the reversed digits.",
+    "answer": "7939",
+    "before": "7939",
+    "after": "7793",
+    "before_correct": true,
+    "after_correct": false
+  },
+  {
+    "index": 249,
+    "id": "3690",
+    "prompt": "Reverse the digits of 3690. Reply with only the reversed digits.",
+    "answer": "0963",
+    "before": "0963",
+    "after": "0963",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 250,
+    "id": "6470",
+    "prompt": "Reverse the digits of 6470. Reply with only the reversed digits.",
+    "answer": "0746",
+    "before": "0746",
+    "after": "0746",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 251,
+    "id": "3362",
+    "prompt": "Reverse the digits of 3362. Reply with only the reversed digits.",
+    "answer": "2633",
+    "before": "263",
+    "after": "2633",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 252,
+    "id": "8247",
+    "prompt": "Reverse the digits of 8247. Reply with only the reversed digits.",
+    "answer": "7428",
+    "before": "7428",
+    "after": "7428",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 253,
+    "id": "5785",
+    "prompt": "Reverse the digits of 5785. Reply with only the reversed digits.",
+    "answer": "5875",
+    "before": "5875",
+    "after": "5875",
+    "before_correct": true,
+    "after_correct": true
+  },
+  {
+    "index": 254,
+    "id": "5592",
+    "prompt": "Reverse the digits of 5592. Reply with only the reversed digits.",
+    "answer": "2955",
+    "before": "5295",
+    "after": "2955",
+    "before_correct": false,
+    "after_correct": true
+  },
+  {
+    "index": 255,
+    "id": "1914",
+    "prompt": "Reverse the digits of 1914. Reply with only the reversed digits.",
+    "answer": "4191",
+    "before": "1419",
+    "after": "4191",
+    "before_correct": false,
+    "after_correct": true
+  }
+]

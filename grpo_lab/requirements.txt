@@ -1,0 +1,2 @@
+-r ../tutorials/requirements-llm.txt
+psutil>=7,<8

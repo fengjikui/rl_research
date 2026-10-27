@@ -1,0 +1,20 @@
+{
+  "n": 256,
+  "before_correct": 113,
+  "after_correct": 236,
+  "before_success": 0.44140625,
+  "after_success": 0.921875,
+  "absolute_gain": 0.48046875,
+  "gain_paired_bootstrap95": [
+    0.41796875,
+    0.54296875
+  ],
+  "corrected": 125,
+  "regressed": 2,
+  "target_met": true,
+  "selected_step": 20,
+  "final_test_used_for_selection": false,
+  "initial_test_failure_retained": true,
+  "checkpoint_hash_verified": true,
+  "completed_at": "2026-09-14T00:08:51.827737+08:00"
+}

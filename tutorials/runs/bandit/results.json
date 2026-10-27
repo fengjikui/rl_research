@@ -1,0 +1,180 @@
+{
+  "config": {
+    "steps": 300,
+    "seed": 0,
+    "out": "tutorials/runs/bandit"
+  },
+  "metrics": {
+    "initial_expected_reward": 0.46666666865348816,
+    "final_expected_reward": 0.8820923566818237,
+    "probabilities": [
+      0.0114132696762681,
+      0.017554061487317085,
+      0.9710327386856079
+    ]
+  },
+  "history": [
+    {
+      "step": 0,
+      "expected_reward": 0.46666669845581055,
+      "best_action_probability": 0.3333333432674408
+    },
+    {
+      "step": 10,
+      "expected_reward": 0.5230507254600525,
+      "best_action_probability": 0.4110962152481079
+    },
+    {
+      "step": 20,
+      "expected_reward": 0.5839750170707703,
+      "best_action_probability": 0.49925267696380615
+    },
+    {
+      "step": 30,
+      "expected_reward": 0.641369640827179,
+      "best_action_probability": 0.5874273180961609
+    },
+    {
+      "step": 40,
+      "expected_reward": 0.6895999908447266,
+      "best_action_probability": 0.6633997559547424
+    },
+    {
+      "step": 50,
+      "expected_reward": 0.7287477254867554,
+      "best_action_probability": 0.7248831391334534
+    },
+    {
+      "step": 60,
+      "expected_reward": 0.7591724991798401,
+      "best_action_probability": 0.7730463147163391
+    },
+    {
+      "step": 70,
+      "expected_reward": 0.7793893218040466,
+      "best_action_probability": 0.8054080009460449
+    },
+    {
+      "step": 80,
+      "expected_reward": 0.7974660396575928,
+      "best_action_probability": 0.8341400027275085
+    },
+    {
+      "step": 90,
+      "expected_reward": 0.8130701780319214,
+      "best_action_probability": 0.8591246008872986
+    },
+    {
+      "step": 100,
+      "expected_reward": 0.8250677585601807,
+      "best_action_probability": 0.8785170316696167
+    },
+    {
+      "step": 110,
+      "expected_reward": 0.8335078954696655,
+      "best_action_probability": 0.8921143412590027
+    },
+    {
+      "step": 120,
+      "expected_reward": 0.8403334617614746,
+      "best_action_probability": 0.9031885862350464
+    },
+    {
+      "step": 130,
+      "expected_reward": 0.8466667532920837,
+      "best_action_probability": 0.9134676456451416
+    },
+    {
+      "step": 140,
+      "expected_reward": 0.8518955111503601,
+      "best_action_probability": 0.921989917755127
+    },
+    {
+      "step": 150,
+      "expected_reward": 0.8554294109344482,
+      "best_action_probability": 0.927581787109375
+    },
+    {
+      "step": 160,
+      "expected_reward": 0.8584727048873901,
+      "best_action_probability": 0.9325008392333984
+    },
+    {
+      "step": 170,
+      "expected_reward": 0.8617127537727356,
+      "best_action_probability": 0.9378470778465271
+    },
+    {
+      "step": 180,
+      "expected_reward": 0.864274263381958,
+      "best_action_probability": 0.94197016954422
+    },
+    {
+      "step": 190,
+      "expected_reward": 0.8666215538978577,
+      "best_action_probability": 0.9457550644874573
+    },
+    {
+      "step": 200,
+      "expected_reward": 0.8684636354446411,
+      "best_action_probability": 0.9488233327865601
+    },
+    {
+      "step": 210,
+      "expected_reward": 0.8707632422447205,
+      "best_action_probability": 0.9526016116142273
+    },
+    {
+      "step": 220,
+      "expected_reward": 0.8726134300231934,
+      "best_action_probability": 0.955568790435791
+    },
+    {
+      "step": 230,
+      "expected_reward": 0.8746134042739868,
+      "best_action_probability": 0.958844006061554
+    },
+    {
+      "step": 240,
+      "expected_reward": 0.8759338855743408,
+      "best_action_probability": 0.9609864950180054
+    },
+    {
+      "step": 250,
+      "expected_reward": 0.8771608471870422,
+      "best_action_probability": 0.9630041718482971
+    },
+    {
+      "step": 260,
+      "expected_reward": 0.878609299659729,
+      "best_action_probability": 0.9653487205505371
+    },
+    {
+      "step": 270,
+      "expected_reward": 0.8796837329864502,
+      "best_action_probability": 0.9671050310134888
+    },
+    {
+      "step": 280,
+      "expected_reward": 0.8805688619613647,
+      "best_action_probability": 0.9685616493225098
+    },
+    {
+      "step": 290,
+      "expected_reward": 0.8813297748565674,
+      "best_action_probability": 0.9697980880737305
+    },
+    {
+      "step": 300,
+      "expected_reward": 0.8820923566818237,
+      "best_action_probability": 0.9710327386856079
+    }
+  ],
+  "runtime": {
+    "python": "3.11.15",
+    "torch": "2.14.0",
+    "platform": "macOS-15.7.4-arm64-arm-64bit",
+    "device": "cpu",
+    "seconds": 0.625
+  }
+}

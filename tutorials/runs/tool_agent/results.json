@@ -1,0 +1,159 @@
+{
+  "config": {
+    "updates": 200,
+    "group_size": 32,
+    "seed": 0,
+    "out": "tutorials/runs/tool_agent"
+  },
+  "metrics": {
+    "initial": {
+      "success": 0.5,
+      "inspect_rate": 0.0,
+      "trace": [
+        {
+          "hidden_bit": 0,
+          "first_action": 2,
+          "second_action": null
+        },
+        {
+          "hidden_bit": 1,
+          "first_action": 2,
+          "second_action": null
+        }
+      ]
+    },
+    "final": {
+      "success": 1.0,
+      "inspect_rate": 1.0,
+      "trace": [
+        {
+          "hidden_bit": 0,
+          "first_action": 0,
+          "second_action": 1
+        },
+        {
+          "hidden_bit": 1,
+          "first_action": 0,
+          "second_action": 2
+        }
+      ]
+    },
+    "evaluation_scope": "exhaustive two hidden states; at most TWO calls, not a long-horizon benchmark"
+  },
+  "history": [
+    {
+      "step": 0,
+      "success": 0.5,
+      "inspect_rate": 0.0
+    },
+    {
+      "step": 10,
+      "success": 0.5,
+      "inspect_rate": 0.0
+    },
+    {
+      "step": 20,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 30,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 40,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 50,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 60,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 70,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 80,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 90,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 100,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 110,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 120,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 130,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 140,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 150,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 160,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 170,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 180,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 190,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    },
+    {
+      "step": 200,
+      "success": 1.0,
+      "inspect_rate": 1.0
+    }
+  ],
+  "runtime": {
+    "python": "3.11.15",
+    "torch": "2.14.0",
+    "platform": "macOS-15.7.4-arm64-arm-64bit",
+    "device": "cpu",
+    "seconds": 1.762
+  },
+  "parameters": 9254,
+  "architecture": "ToolPolicy(\n  (token): Embedding(6, 32)\n  (position): Embedding(8, 32)\n  (blocks): TransformerEncoder(\n    (layers): ModuleList(\n      (0): TransformerEncoderLayer(\n        (self_attn): MultiheadAttention(\n          (out_proj): NonDynamicallyQuantizableLinear(in_features=32, out_features=32, bias=True)\n        )\n        (linear1): Linear(in_features=32, out_features=64, bias=True)\n        (dropout): Dropout(p=0.0, inplace=False)\n        (linear2): Linear(in_features=64, out_features=32, bias=True)\n        (norm1): LayerNorm((32,), eps=1e-05, elementwise_affine=True, bias=True)\n        (norm2): LayerNorm((32,), eps=1e-05, elementwise_affine=True, bias=True)\n        (dropout1): Dropout(p=0.0, inplace=False)\n        (dropout2): Dropout(p=0.0, inplace=False)\n      )\n    )\n  )\n  (norm): LayerNorm((32,), eps=1e-05, elementwise_affine=True, bias=True)\n  (head): Linear(in_features=32, out_features=6, bias=True)\n)"
+}

@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "scope": "random tiny Qwen2 on CPU, no pretrained weights",
+  "generation_logp_max_error": 2.384185791015625e-07,
+  "lora_gradient_l1": 1.0409625992178917,
+  "torch": "2.14.0"
+}

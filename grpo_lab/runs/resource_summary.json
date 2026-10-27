@@ -1,0 +1,123 @@
+[
+  {
+    "stage": "download_http_resources",
+    "samples": 2,
+    "observed_max_cpu_percent": 9.7,
+    "observed_max_task_rss_gib": 0.0,
+    "min_available_gib": 18.52,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "download_resources",
+    "samples": 63,
+    "observed_max_cpu_percent": 17.0,
+    "observed_max_task_rss_gib": 1.0,
+    "min_available_gib": 17.99,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "game_resources",
+    "samples": 2,
+    "observed_max_cpu_percent": 12.8,
+    "observed_max_task_rss_gib": 0.0,
+    "min_available_gib": 18.02,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_final_base_resources",
+    "samples": 10,
+    "observed_max_cpu_percent": 21.3,
+    "observed_max_task_rss_gib": 2.37,
+    "min_available_gib": 14.31,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_final_trained_resources",
+    "samples": 10,
+    "observed_max_cpu_percent": 16.9,
+    "observed_max_task_rss_gib": 2.38,
+    "min_available_gib": 14.7,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_probe_resources",
+    "samples": 3,
+    "observed_max_cpu_percent": 15.8,
+    "observed_max_task_rss_gib": 2.28,
+    "min_available_gib": 17.8,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_stage1_resources",
+    "samples": 24,
+    "observed_max_cpu_percent": 19.8,
+    "observed_max_task_rss_gib": 2.56,
+    "min_available_gib": 14.61,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_stage2_resources",
+    "samples": 23,
+    "observed_max_cpu_percent": 22.3,
+    "observed_max_task_rss_gib": 2.61,
+    "min_available_gib": 14.27,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_test_base_resources",
+    "samples": 6,
+    "observed_max_cpu_percent": 16.4,
+    "observed_max_task_rss_gib": 2.34,
+    "min_available_gib": 18.5,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_test_trained_resources",
+    "samples": 6,
+    "observed_max_cpu_percent": 12.5,
+    "observed_max_task_rss_gib": 2.34,
+    "min_available_gib": 14.12,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  },
+  {
+    "stage": "llm_verify_resources",
+    "samples": 3,
+    "observed_max_cpu_percent": 8.8,
+    "observed_max_task_rss_gib": 2.28,
+    "min_available_gib": 15.32,
+    "thermal_states": [
+      0
+    ],
+    "paused_samples": 0
+  }
+]

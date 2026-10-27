@@ -1,0 +1,9 @@
+{
+  "time": "2026-09-14T00:03:41.729933+08:00",
+  "initial_test_success": 0.78125,
+  "initial_test_n": 128,
+  "outcome": "below the original >=80% target",
+  "next_development_set": "full validation:128",
+  "reserved_final_test": "fixed shuffled pool offsets [1280:1536], 256 items, disjoint from all previous sets",
+  "final_test_evaluated": false
+}

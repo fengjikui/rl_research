@@ -1,0 +1,78 @@
+{
+  "config": {
+    "steps": 12000,
+    "seed": 0,
+    "encoder": "mlp",
+    "out": "tutorials/runs/dqn_mlp"
+  },
+  "metrics": {
+    "initial_success": 0.178,
+    "final_success": 1.0,
+    "random_success": 0.19,
+    "evaluation_episodes": 500,
+    "evaluation_scope": "fresh draws from the same finite game"
+  },
+  "history": [
+    {
+      "step": 0,
+      "success": 0.178
+    },
+    {
+      "step": 1000,
+      "success": 0.21
+    },
+    {
+      "step": 2000,
+      "success": 0.558
+    },
+    {
+      "step": 3000,
+      "success": 0.512
+    },
+    {
+      "step": 4000,
+      "success": 0.35
+    },
+    {
+      "step": 5000,
+      "success": 0.35
+    },
+    {
+      "step": 6000,
+      "success": 0.35
+    },
+    {
+      "step": 7000,
+      "success": 0.544
+    },
+    {
+      "step": 8000,
+      "success": 0.812
+    },
+    {
+      "step": 9000,
+      "success": 1.0
+    },
+    {
+      "step": 10000,
+      "success": 1.0
+    },
+    {
+      "step": 11000,
+      "success": 1.0
+    },
+    {
+      "step": 12000,
+      "success": 1.0
+    }
+  ],
+  "runtime": {
+    "python": "3.11.15",
+    "torch": "2.14.0",
+    "platform": "macOS-15.7.4-arm64-arm-64bit",
+    "device": "cpu",
+    "seconds": 4.711
+  },
+  "parameters": 8259,
+  "architecture": "QNet(\n  (features): Backbone(\n    (net): Sequential(\n      (0): Flatten(start_dim=1, end_dim=-1)\n      (1): Linear(in_features=60, out_features=64, bias=True)\n      (2): Tanh()\n      (3): Linear(in_features=64, out_features=64, bias=True)\n      (4): Tanh()\n    )\n  )\n  (head): Linear(in_features=64, out_features=3, bias=True)\n)"
+}

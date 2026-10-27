@@ -1,0 +1,180 @@
+{
+  "config": {
+    "algo": "sft",
+    "updates": 160,
+    "warmup": 5,
+    "group_size": 16,
+    "seed": 0,
+    "out": "tutorials/runs/tiny_sft"
+  },
+  "metrics": {
+    "initial_success": 0.25,
+    "final_success": 1.0,
+    "initial_exact_success_probability": 0.06668426841497421,
+    "final_exact_success_probability": 0.9857408404350281,
+    "last_informative_group_fraction": null,
+    "evaluation_scope": "all 16 TRAINING prompts; no held-out generalization claim",
+    "samples": [
+      {
+        "prompt": "00>",
+        "answer": "00"
+      },
+      {
+        "prompt": "01>",
+        "answer": "10"
+      },
+      {
+        "prompt": "02>",
+        "answer": "20"
+      },
+      {
+        "prompt": "03>",
+        "answer": "30"
+      },
+      {
+        "prompt": "10>",
+        "answer": "01"
+      },
+      {
+        "prompt": "11>",
+        "answer": "11"
+      },
+      {
+        "prompt": "12>",
+        "answer": "21"
+      },
+      {
+        "prompt": "13>",
+        "answer": "31"
+      },
+      {
+        "prompt": "20>",
+        "answer": "02"
+      },
+      {
+        "prompt": "21>",
+        "answer": "12"
+      },
+      {
+        "prompt": "22>",
+        "answer": "22"
+      },
+      {
+        "prompt": "23>",
+        "answer": "32"
+      },
+      {
+        "prompt": "30>",
+        "answer": "03"
+      },
+      {
+        "prompt": "31>",
+        "answer": "13"
+      },
+      {
+        "prompt": "32>",
+        "answer": "23"
+      },
+      {
+        "prompt": "33>",
+        "answer": "33"
+      }
+    ]
+  },
+  "history": [
+    {
+      "step": 0,
+      "greedy_success": 0.25,
+      "exact_success_probability": 0.06668426841497421
+    },
+    {
+      "step": 10,
+      "greedy_success": 0.625,
+      "exact_success_probability": 0.1377677470445633
+    },
+    {
+      "step": 20,
+      "greedy_success": 0.9375,
+      "exact_success_probability": 0.3634759485721588
+    },
+    {
+      "step": 30,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.67325359582901
+    },
+    {
+      "step": 40,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.8558944463729858
+    },
+    {
+      "step": 50,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9182225465774536
+    },
+    {
+      "step": 60,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9429293870925903
+    },
+    {
+      "step": 70,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9557961225509644
+    },
+    {
+      "step": 80,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9636517763137817
+    },
+    {
+      "step": 90,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9690658450126648
+    },
+    {
+      "step": 100,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9731119871139526
+    },
+    {
+      "step": 110,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9762939810752869
+    },
+    {
+      "step": 120,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9788802266120911
+    },
+    {
+      "step": 130,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9810303449630737
+    },
+    {
+      "step": 140,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9828466773033142
+    },
+    {
+      "step": 150,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9843996167182922
+    },
+    {
+      "step": 160,
+      "greedy_success": 1.0,
+      "exact_success_probability": 0.9857408404350281
+    }
+  ],
+  "runtime": {
+    "python": "3.11.15",
+    "torch": "2.14.0",
+    "platform": "macOS-15.7.4-arm64-arm-64bit",
+    "device": "cpu",
+    "seconds": 0.781
+  },
+  "parameters": 9189,
+  "architecture": "TinyLM(\n  (token): Embedding(5, 32)\n  (position): Embedding(8, 32)\n  (blocks): TransformerEncoder(\n    (layers): ModuleList(\n      (0): TransformerEncoderLayer(\n        (self_attn): MultiheadAttention(\n          (out_proj): NonDynamicallyQuantizableLinear(in_features=32, out_features=32, bias=True)\n        )\n        (linear1): Linear(in_features=32, out_features=64, bias=True)\n        (dropout): Dropout(p=0.0, inplace=False)\n        (linear2): Linear(in_features=64, out_features=32, bias=True)\n        (norm1): LayerNorm((32,), eps=1e-05, elementwise_affine=True, bias=True)\n        (norm2): LayerNorm((32,), eps=1e-05, elementwise_affine=True, bias=True)\n        (dropout1): Dropout(p=0.0, inplace=False)\n        (dropout2): Dropout(p=0.0, inplace=False)\n      )\n    )\n  )\n  (norm): LayerNorm((32,), eps=1e-05, elementwise_affine=True, bias=True)\n  (head): Linear(in_features=32, out_features=5, bias=True)\n)"
+}

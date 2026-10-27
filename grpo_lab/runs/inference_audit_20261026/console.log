@@ -1,0 +1,39 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loaded original base model; no adapter
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+before 4/256 correct=2
+before 20/256 correct=11
+before 36/256 correct=18
+before 52/256 correct=21
+before 68/256 correct=26
+before 84/256 correct=32
+before 100/256 correct=44
+before 116/256 correct=56
+before 132/256 correct=62
+before 148/256 correct=71
+before 164/256 correct=77
+before 180/256 correct=82
+before 196/256 correct=88
+before 212/256 correct=94
+before 228/256 correct=102
+before 244/256 correct=107
+before 256/256 correct=113
+Loaded saved step-20 LoRA on the same base
+after 4/256 correct=2
+after 20/256 correct=17
+after 36/256 correct=33
+after 52/256 correct=48
+after 68/256 correct=63
+after 84/256 correct=76
+after 100/256 correct=91
+after 116/256 correct=106
+after 132/256 correct=120
+after 148/256 correct=136
+after 164/256 correct=149
+after 180/256 correct=164
+after 196/256 correct=180
+after 212/256 correct=195
+after 228/256 correct=210
+after 244/256 correct=225
+after 256/256 correct=236
+COMPLETE {"n": 256, "before_correct": 113, "after_correct": 236, "before_accuracy": 0.44140625, "after_accuracy": 0.921875, "absolute_gain_percentage_points": 48.046875, "paired_counts": {"both_correct": 111, "fixed": 125, "regressed": 2, "both_wrong": 18}, "historical_output_mismatches": {"before": 0, "after": 0}}

@@ -1,0 +1,9 @@
+{
+  "actual_pretrained_model": true,
+  "adapter_step": 20,
+  "generation_recomputation_max_logp_error": 4.887580871582031e-05,
+  "tolerance": 0.0001,
+  "left_padding_tested": true,
+  "eos_mask_tested": true,
+  "passed": true
+}

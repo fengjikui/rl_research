@@ -1,0 +1,20 @@
+{
+  "original_model_source.json": "cdfe6cc7217050e7fa6e3997db5387db16f06db5624c51330038ef977da7d310",
+  "paired_results.json": "dc35ad81a17e6c977f3aea0838b9c6e963ad0e4b69469cffb80d9e977f29a963",
+  "provenance.json": "d8b291379cf88f8c8fd8f4bf8ee78dcc1fe6e8c6a5fa264b21d842e4d44a9ef0",
+  "01_训练前推理记录.md": "8c9918967fe773a77be3af51d139c9ff0846762a933f36ce8fd76b730c61c4db",
+  "after.jsonl": "bccc0e7c4c3690d320ec0283e636d11a04799c5218dd7d7f2b34a20039cb7c73",
+  "console.log": "ad28441be998c77f3990b7b3ce25292ce610626541e03b1beaa6fefd70772653",
+  "test_manifest.json": "6009538bfae5e7abee802bbf4d5e86d1d4fde941f9af230bc7717b7b72e61cd3",
+  "comparison.json": "92479fba13161daadea72a0568bc2db76983982303be60a9a6d11c3d6d28e5c3",
+  "original_adapter_config.json": "e36fd97632257eb4202806123d69084d88b72ee7b47707692e9da7745b5b661e",
+  "audit_inference_executed.py": "916344026fe7c88259e1e31217fd9e22bad2d1becfe31f69575b8bb2d5624f5a",
+  "before_summary.json": "47ff896193e2d36f9ff13e26e31170a390ede24e08917f60e804bcf1ed40bf92",
+  "original_selection.json": "113c62a761fec506291330e3770df7437cab67a5bda144d45585e066c167ccf9",
+  "before.jsonl": "8cc8c5ae830eebf9985dec7ccbe260c2fa7c39d34a8c9277c762146ff7071eff",
+  "after_summary.json": "f31dbc83d7cfb78c4c9ff0d59a78fd0681b8ad1b9ee3b6c5c5b312c6d184e1c2",
+  "02_训练后推理记录.md": "e2315369a0d3e8e2acd53aa37cd90021cf7da82050db7d9c64466095904bf06d",
+  "verification.json": "a13947c91155050666a03852d8138bf5a46e6d6120f18a6a07024b84e6472822",
+  "resources.jsonl": "37038e95001f71f8a042762ef4f3699d3b05166c766aa2fbef83ad5a6e0694b3",
+  "resource_summary.json": "4766317a684827fe12b2d17a280993c328115dc7b90a1104b388acdcffbee52e"
+}

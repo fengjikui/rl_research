@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.cache/
+tutorials/runs/*/model*.pt
+tutorials/runs/llm_*/
+grpo_lab/runs/**/*.pt
+grpo_lab/runs/**/adapter/
+
+# Publish only the selected small LoRA, not intermediate adapter checkpoints.
+!grpo_lab/runs/llm_reverse/adapter/
+!grpo_lab/runs/llm_reverse/adapter/adapter_model.safetensors
+!grpo_lab/runs/llm_reverse/adapter/adapter_config.json
+!grpo_lab/runs/llm_reverse/adapter/README.md
+!grpo_lab/runs/llm_reverse/adapter/LICENSE
+.DS_Store
+.env
+.env.*
+!.env.example

@@ -1,0 +1,56 @@
+{
+  "started_at": "2026-10-26T00:09:39.962556+08:00",
+  "device": "cpu",
+  "dtype": "float32",
+  "batch_size": 4,
+  "intraop_threads": 2,
+  "interop_threads": 1,
+  "seed": 0,
+  "model_source": {
+    "repo": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "base_sha256_before": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe",
+  "adapter_sha256_before": "c4df15cb4db074b3e329ba4f38c66bc6fa755fdb279f383e868902312994e0a3",
+  "script_sha256": "916344026fe7c88259e1e31217fd9e22bad2d1becfe31f69575b8bb2d5624f5a",
+  "manifest_sha256": "6009538bfae5e7abee802bbf4d5e86d1d4fde941f9af230bc7717b7b72e61cd3",
+  "packages": {
+    "torch": "2.14.0",
+    "transformers": "4.57.6",
+    "peft": "0.18.1",
+    "psutil": "7.2.2"
+  },
+  "python": "3.11.15",
+  "platform": "macOS-15.7.4-arm64-arm-64bit",
+  "decoding": {
+    "do_sample": false,
+    "max_new_tokens": 8,
+    "num_beams": 1,
+    "repetition_penalty": 1.0,
+    "use_cache": true
+  },
+  "source_files": {
+    "grpo_lab/.cache/qwen/config.json": "18e18afcaccafade98daf13a54092927904649e1dd4eba8299ab717d5d94ff45",
+    "grpo_lab/.cache/qwen/generation_config.json": "e558847a8b4402616f1273797b015104dc266fe4b520056fca88823ba8f8ebe6",
+    "grpo_lab/.cache/qwen/tokenizer_config.json": "5b5d4f65d0acd3b2d56a35b56d374a36cbc1c8fa5cf3b3febbbfabf22f359583",
+    "grpo_lab/.cache/qwen/tokenizer.json": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+    "grpo_lab/runs/llm_reverse/adapter/adapter_config.json": "e36fd97632257eb4202806123d69084d88b72ee7b47707692e9da7745b5b661e"
+  },
+  "command": ".venv/bin/python grpo_lab/guard.py --log /Users/fengjikui/Documents/dev-coding/codex_build/rl_research/grpo_lab/runs/inference_audit_20261026_resources.jsonl --max-seconds 900 -- .venv/bin/python grpo_lab/audit_inference.py --out /Users/fengjikui/Documents/dev-coding/codex_build/rl_research/grpo_lab/runs/inference_audit_20261026",
+  "completed_at": "2026-10-26T00:11:20.898623+08:00",
+  "base_sha256_after": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe",
+  "adapter_sha256_after": "c4df15cb4db074b3e329ba4f38c66bc6fa755fdb279f383e868902312994e0a3",
+  "inference_only_weights_unchanged": true,
+  "evidence_sha256": {
+    "original_model_source.json": "cdfe6cc7217050e7fa6e3997db5387db16f06db5624c51330038ef977da7d310",
+    "paired_results.json": "dc35ad81a17e6c977f3aea0838b9c6e963ad0e4b69469cffb80d9e977f29a963",
+    "after.jsonl": "bccc0e7c4c3690d320ec0283e636d11a04799c5218dd7d7f2b34a20039cb7c73",
+    "test_manifest.json": "6009538bfae5e7abee802bbf4d5e86d1d4fde941f9af230bc7717b7b72e61cd3",
+    "comparison.json": "92479fba13161daadea72a0568bc2db76983982303be60a9a6d11c3d6d28e5c3",
+    "original_adapter_config.json": "e36fd97632257eb4202806123d69084d88b72ee7b47707692e9da7745b5b661e",
+    "before_summary.json": "47ff896193e2d36f9ff13e26e31170a390ede24e08917f60e804bcf1ed40bf92",
+    "original_selection.json": "113c62a761fec506291330e3770df7437cab67a5bda144d45585e066c167ccf9",
+    "before.jsonl": "8cc8c5ae830eebf9985dec7ccbe260c2fa7c39d34a8c9277c762146ff7071eff",
+    "after_summary.json": "f31dbc83d7cfb78c4c9ff0d59a78fd0681b8ad1b9ee3b6c5c5b312c6d184e1c2"
+  }
+}

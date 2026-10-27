@@ -1,0 +1,18 @@
+{
+  "n": 256,
+  "before_correct": 113,
+  "after_correct": 236,
+  "before_accuracy": 0.44140625,
+  "after_accuracy": 0.921875,
+  "absolute_gain_percentage_points": 48.046875,
+  "paired_counts": {
+    "both_correct": 111,
+    "fixed": 125,
+    "regressed": 2,
+    "both_wrong": 18
+  },
+  "historical_output_mismatches": {
+    "before": 0,
+    "after": 0
+  }
+}

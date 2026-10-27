@@ -1,0 +1,5 @@
+{
+  "passed": true,
+  "test": "SIGTERM on guard cleans its own sleeping child",
+  "remaining_children": []
+}

@@ -1,0 +1,10 @@
+{
+  "selected_step": 20,
+  "validation_n": 128,
+  "validation_success": 0.875,
+  "selected_at": "2026-09-14T00:06:07.059204+08:00",
+  "reason": "full validation exceeds target; freeze before reserved final test",
+  "adapter_sha256": "c4df15cb4db074b3e329ba4f38c66bc6fa755fdb279f383e868902312994e0a3",
+  "final_test_used_for_selection": false,
+  "initial_test_was_observed": true
+}

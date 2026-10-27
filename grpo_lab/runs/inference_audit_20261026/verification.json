@@ -1,0 +1,10 @@
+{
+  "verified": true,
+  "n_per_model": 256,
+  "grading_recomputed": true,
+  "paired_statistics_recomputed": true,
+  "all_recorded_evidence_hashes_match": true,
+  "all_256_rows_present_in_each_document": true,
+  "model_files_unchanged": true,
+  "guard_returncode": 0
+}

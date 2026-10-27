@@ -1,0 +1,24 @@
+{"time": "2026-09-13T23:58:38.357003+08:00", "thermal_state": 0, "cpu_percent": 0.0, "available_gib": 15.86, "memory_percent": 75.2, "task_rss_gib": 0.0, "load1": 2.56884765625, "paused": false}
+{"time": "2026-09-13T23:58:43.580660+08:00", "thermal_state": 0, "cpu_percent": 10.7, "available_gib": 16.65, "memory_percent": 74.0, "task_rss_gib": 2.3, "load1": 2.44287109375, "paused": false}
+{"time": "2026-09-13T23:58:48.806123+08:00", "thermal_state": 0, "cpu_percent": 10.6, "available_gib": 15.5, "memory_percent": 75.8, "task_rss_gib": 2.37, "load1": 2.6474609375, "paused": false}
+{"time": "2026-09-13T23:58:54.016999+08:00", "thermal_state": 0, "cpu_percent": 13.1, "available_gib": 14.93, "memory_percent": 76.7, "task_rss_gib": 2.39, "load1": 2.67529296875, "paused": false}
+{"time": "2026-09-13T23:58:59.236128+08:00", "thermal_state": 0, "cpu_percent": 0.0, "available_gib": 15.91, "memory_percent": 75.1, "task_rss_gib": 2.52, "load1": 2.861328125, "paused": false}
+{"time": "2026-09-13T23:59:04.463763+08:00", "thermal_state": 0, "cpu_percent": 18.1, "available_gib": 15.5, "memory_percent": 75.8, "task_rss_gib": 2.56, "load1": 3.2724609375, "paused": false}
+{"time": "2026-09-13T23:59:09.695132+08:00", "thermal_state": 0, "cpu_percent": 0.0, "available_gib": 14.67, "memory_percent": 77.1, "task_rss_gib": 2.47, "load1": 3.1435546875, "paused": false}
+{"time": "2026-09-13T23:59:14.917874+08:00", "thermal_state": 0, "cpu_percent": 15.5, "available_gib": 17.17, "memory_percent": 73.2, "task_rss_gib": 2.49, "load1": 3.5322265625, "paused": false}
+{"time": "2026-09-13T23:59:20.142719+08:00", "thermal_state": 0, "cpu_percent": 13.1, "available_gib": 15.22, "memory_percent": 76.2, "task_rss_gib": 2.5, "load1": 3.3291015625, "paused": false}
+{"time": "2026-09-13T23:59:25.362398+08:00", "thermal_state": 0, "cpu_percent": 12.8, "available_gib": 14.61, "memory_percent": 77.2, "task_rss_gib": 2.49, "load1": 3.54296875, "paused": false}
+{"time": "2026-09-13T23:59:30.582849+08:00", "thermal_state": 0, "cpu_percent": 10.1, "available_gib": 17.32, "memory_percent": 72.9, "task_rss_gib": 2.49, "load1": 3.6591796875, "paused": false}
+{"time": "2026-09-13T23:59:35.802900+08:00", "thermal_state": 0, "cpu_percent": 14.1, "available_gib": 17.72, "memory_percent": 72.3, "task_rss_gib": 2.49, "load1": 3.60595703125, "paused": false}
+{"time": "2026-09-13T23:59:41.045861+08:00", "thermal_state": 0, "cpu_percent": 8.1, "available_gib": 18.3, "memory_percent": 71.4, "task_rss_gib": 2.49, "load1": 4.11767578125, "paused": false}
+{"time": "2026-09-13T23:59:46.271440+08:00", "thermal_state": 0, "cpu_percent": 14.5, "available_gib": 18.29, "memory_percent": 71.4, "task_rss_gib": 2.5, "load1": 3.86767578125, "paused": false}
+{"time": "2026-09-13T23:59:51.485373+08:00", "thermal_state": 0, "cpu_percent": 16.5, "available_gib": 18.25, "memory_percent": 71.5, "task_rss_gib": 2.5, "load1": 3.7177734375, "paused": false}
+{"time": "2026-09-13T23:59:56.709055+08:00", "thermal_state": 0, "cpu_percent": 14.5, "available_gib": 18.22, "memory_percent": 71.5, "task_rss_gib": 2.52, "load1": 3.740234375, "paused": false}
+{"time": "2026-09-14T00:00:01.936008+08:00", "thermal_state": 0, "cpu_percent": 18.0, "available_gib": 18.75, "memory_percent": 70.7, "task_rss_gib": 2.52, "load1": 4.1611328125, "paused": false}
+{"time": "2026-09-14T00:00:07.153301+08:00", "thermal_state": 0, "cpu_percent": 0.0, "available_gib": 18.74, "memory_percent": 70.7, "task_rss_gib": 2.52, "load1": 4.14794921875, "paused": false}
+{"time": "2026-09-14T00:00:12.376680+08:00", "thermal_state": 0, "cpu_percent": 19.8, "available_gib": 18.65, "memory_percent": 70.9, "task_rss_gib": 2.52, "load1": 4.1357421875, "paused": false}
+{"time": "2026-09-14T00:00:17.601923+08:00", "thermal_state": 0, "cpu_percent": 9.5, "available_gib": 18.66, "memory_percent": 70.8, "task_rss_gib": 2.52, "load1": 4.04443359375, "paused": false}
+{"time": "2026-09-14T00:00:22.830370+08:00", "thermal_state": 0, "cpu_percent": 14.3, "available_gib": 18.65, "memory_percent": 70.9, "task_rss_gib": 2.52, "load1": 3.88037109375, "paused": false}
+{"time": "2026-09-14T00:00:28.058855+08:00", "thermal_state": 0, "cpu_percent": 14.8, "available_gib": 18.65, "memory_percent": 70.9, "task_rss_gib": 2.52, "load1": 3.8896484375, "paused": false}
+{"time": "2026-09-14T00:00:33.281427+08:00", "thermal_state": 0, "cpu_percent": 16.5, "available_gib": 18.81, "memory_percent": 70.6, "task_rss_gib": 2.52, "load1": 3.8984375, "paused": false}
+{"time": "2026-09-14T00:00:38.502176+08:00", "thermal_state": 0, "cpu_percent": 6.7, "available_gib": 21.15, "memory_percent": 66.9, "task_rss_gib": 0.0, "load1": 3.74609375, "event": "completed", "returncode": 0}

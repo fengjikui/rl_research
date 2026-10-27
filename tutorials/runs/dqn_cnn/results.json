@@ -1,0 +1,78 @@
+{
+  "config": {
+    "steps": 12000,
+    "seed": 0,
+    "encoder": "cnn",
+    "out": "tutorials/runs/dqn_cnn"
+  },
+  "metrics": {
+    "initial_success": 0.186,
+    "final_success": 1.0,
+    "random_success": 0.19,
+    "evaluation_episodes": 500,
+    "evaluation_scope": "fresh draws from the same finite game"
+  },
+  "history": [
+    {
+      "step": 0,
+      "success": 0.186
+    },
+    {
+      "step": 1000,
+      "success": 0.184
+    },
+    {
+      "step": 2000,
+      "success": 1.0
+    },
+    {
+      "step": 3000,
+      "success": 1.0
+    },
+    {
+      "step": 4000,
+      "success": 1.0
+    },
+    {
+      "step": 5000,
+      "success": 1.0
+    },
+    {
+      "step": 6000,
+      "success": 1.0
+    },
+    {
+      "step": 7000,
+      "success": 1.0
+    },
+    {
+      "step": 8000,
+      "success": 1.0
+    },
+    {
+      "step": 9000,
+      "success": 1.0
+    },
+    {
+      "step": 10000,
+      "success": 1.0
+    },
+    {
+      "step": 11000,
+      "success": 1.0
+    },
+    {
+      "step": 12000,
+      "success": 1.0
+    }
+  ],
+  "runtime": {
+    "python": "3.11.15",
+    "torch": "2.14.0",
+    "platform": "macOS-15.7.4-arm64-arm-64bit",
+    "device": "cpu",
+    "seconds": 6.965
+  },
+  "parameters": 32299,
+  "architecture": "QNet(\n  (features): Backbone(\n    (net): Sequential(\n      (0): Conv2d(2, 8, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))\n      (1): ReLU()\n      (2): Conv2d(8, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))\n      (3): ReLU()\n      (4): Flatten(start_dim=1, end_dim=-1)\n      (5): Linear(in_features=480, out_features=64, bias=True)\n      (6): ReLU()\n    )\n  )\n  (head): Linear(in_features=64, out_features=3, bias=True)\n)"
+}

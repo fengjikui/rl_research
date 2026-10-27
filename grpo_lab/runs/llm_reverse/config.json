@@ -1,0 +1,18 @@
+{
+  "model": "grpo_lab/.cache/qwen",
+  "out": "grpo_lab/runs/llm_reverse",
+  "task": "reverse",
+  "device": "cpu",
+  "steps": 10,
+  "resume": false,
+  "split": "validation",
+  "eval_n": 32,
+  "group": 8,
+  "lr": 0.0001,
+  "max_tokens": 8,
+  "seed": 0,
+  "model_parameters": 495114112,
+  "trainable_parameters": 1081344,
+  "dtype": "torch.float32",
+  "goal": "held-out greedy >= 0.80 and >= 0.20 absolute gain; no SFT; no KL"
+}

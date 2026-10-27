@@ -1,0 +1,90 @@
+{
+  "config": {
+    "encoder": "mlp",
+    "updates": 300,
+    "delay": 4,
+    "seed": 0,
+    "out": "tutorials/runs/memory_mlp"
+  },
+  "metrics": {
+    "initial_success": 0.5,
+    "final_success": 0.5,
+    "longer_delay_success": 0.5,
+    "evaluation_scope": "balanced two-cue distribution; longer delay is a separate probe"
+  },
+  "history": [
+    {
+      "step": 0,
+      "success": 0.5
+    },
+    {
+      "step": 20,
+      "success": 0.5
+    },
+    {
+      "step": 40,
+      "success": 0.5
+    },
+    {
+      "step": 60,
+      "success": 0.5
+    },
+    {
+      "step": 80,
+      "success": 0.5
+    },
+    {
+      "step": 100,
+      "success": 0.5
+    },
+    {
+      "step": 120,
+      "success": 0.5
+    },
+    {
+      "step": 140,
+      "success": 0.5
+    },
+    {
+      "step": 160,
+      "success": 0.5
+    },
+    {
+      "step": 180,
+      "success": 0.5
+    },
+    {
+      "step": 200,
+      "success": 0.5
+    },
+    {
+      "step": 220,
+      "success": 0.5
+    },
+    {
+      "step": 240,
+      "success": 0.5
+    },
+    {
+      "step": 260,
+      "success": 0.5
+    },
+    {
+      "step": 280,
+      "success": 0.5
+    },
+    {
+      "step": 300,
+      "success": 0.5
+    }
+  ],
+  "runtime": {
+    "python": "3.11.15",
+    "torch": "2.14.0",
+    "platform": "macOS-15.7.4-arm64-arm-64bit",
+    "device": "cpu",
+    "seconds": 0.727
+  },
+  "parameters": 194,
+  "architecture": "MemoryPolicy(\n  (encoder): Linear(in_features=3, out_features=32, bias=True)\n  (head): Linear(in_features=32, out_features=2, bias=True)\n)"
+}

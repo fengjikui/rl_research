@@ -1,0 +1,232 @@
+{
+  "step": 10,
+  "split": "validation",
+  "n": 32,
+  "success": 0.90625,
+  "records": [
+    {
+      "id": "3291",
+      "prompt": "Reverse the digits of 3291. Reply with only the reversed digits.",
+      "answer": "1923",
+      "completion": "1923",
+      "correct": 1.0
+    },
+    {
+      "id": "3356",
+      "prompt": "Reverse the digits of 3356. Reply with only the reversed digits.",
+      "answer": "6533",
+      "completion": "6533",
+      "correct": 1.0
+    },
+    {
+      "id": "8042",
+      "prompt": "Reverse the digits of 8042. Reply with only the reversed digits.",
+      "answer": "2408",
+      "completion": "2408",
+      "correct": 1.0
+    },
+    {
+      "id": "5250",
+      "prompt": "Reverse the digits of 5250. Reply with only the reversed digits.",
+      "answer": "0525",
+      "completion": "0525",
+      "correct": 1.0
+    },
+    {
+      "id": "2698",
+      "prompt": "Reverse the digits of 2698. Reply with only the reversed digits.",
+      "answer": "8962",
+      "completion": "8962",
+      "correct": 1.0
+    },
+    {
+      "id": "3892",
+      "prompt": "Reverse the digits of 3892. Reply with only the reversed digits.",
+      "answer": "2983",
+      "completion": "2983",
+      "correct": 1.0
+    },
+    {
+      "id": "9382",
+      "prompt": "Reverse the digits of 9382. Reply with only the reversed digits.",
+      "answer": "2839",
+      "completion": "2839",
+      "correct": 1.0
+    },
+    {
+      "id": "2340",
+      "prompt": "Reverse the digits of 2340. Reply with only the reversed digits.",
+      "answer": "0432",
+      "completion": "0432",
+      "correct": 1.0
+    },
+    {
+      "id": "9652",
+      "prompt": "Reverse the digits of 9652. Reply with only the reversed digits.",
+      "answer": "2569",
+      "completion": "2569",
+      "correct": 1.0
+    },
+    {
+      "id": "8213",
+      "prompt": "Reverse the digits of 8213. Reply with only the reversed digits.",
+      "answer": "3128",
+      "completion": "3128",
+      "correct": 1.0
+    },
+    {
+      "id": "1541",
+      "prompt": "Reverse the digits of 1541. Reply with only the reversed digits.",
+      "answer": "1451",
+      "completion": "1451",
+      "correct": 1.0
+    },
+    {
+      "id": "8173",
+      "prompt": "Reverse the digits of 8173. Reply with only the reversed digits.",
+      "answer": "3718",
+      "completion": "3718",
+      "correct": 1.0
+    },
+    {
+      "id": "9394",
+      "prompt": "Reverse the digits of 9394. Reply with only the reversed digits.",
+      "answer": "4939",
+      "completion": "4939",
+      "correct": 1.0
+    },
+    {
+      "id": "1011",
+      "prompt": "Reverse the digits of 1011. Reply with only the reversed digits.",
+      "answer": "1101",
+      "completion": "1101",
+      "correct": 1.0
+    },
+    {
+      "id": "6965",
+      "prompt": "Reverse the digits of 6965. Reply with only the reversed digits.",
+      "answer": "5696",
+      "completion": "5696",
+      "correct": 1.0
+    },
+    {
+      "id": "1182",
+      "prompt": "Reverse the digits of 1182. Reply with only the reversed digits.",
+      "answer": "2811",
+      "completion": "2811",
+      "correct": 1.0
+    },
+    {
+      "id": "9897",
+      "prompt": "Reverse the digits of 9897. Reply with only the reversed digits.",
+      "answer": "7989",
+      "completion": "7798",
+      "correct": 0.0
+    },
+    {
+      "id": "4729",
+      "prompt": "Reverse the digits of 4729. Reply with only the reversed digits.",
+      "answer": "9274",
+      "completion": "9274",
+      "correct": 1.0
+    },
+    {
+      "id": "5026",
+      "prompt": "Reverse the digits of 5026. Reply with only the reversed digits.",
+      "answer": "6205",
+      "completion": "6205",
+      "correct": 1.0
+    },
+    {
+      "id": "7176",
+      "prompt": "Reverse the digits of 7176. Reply with only the reversed digits.",
+      "answer": "6717",
+      "completion": "6717",
+      "correct": 1.0
+    },
+    {
+      "id": "3817",
+      "prompt": "Reverse the digits of 3817. Reply with only the reversed digits.",
+      "answer": "7183",
+      "completion": "7183",
+      "correct": 1.0
+    },
+    {
+      "id": "2022",
+      "prompt": "Reverse the digits of 2022. Reply with only the reversed digits.",
+      "answer": "2202",
+      "completion": "2202",
+      "correct": 1.0
+    },
+    {
+      "id": "7265",
+      "prompt": "Reverse the digits of 7265. Reply with only the reversed digits.",
+      "answer": "5627",
+      "completion": "5627",
+      "correct": 1.0
+    },
+    {
+      "id": "5915",
+      "prompt": "Reverse the digits of 5915. Reply with only the reversed digits.",
+      "answer": "5195",
+      "completion": "5195",
+      "correct": 1.0
+    },
+    {
+      "id": "1193",
+      "prompt": "Reverse the digits of 1193. Reply with only the reversed digits.",
+      "answer": "3911",
+      "completion": "3911",
+      "correct": 1.0
+    },
+    {
+      "id": "4404",
+      "prompt": "Reverse the digits of 4404. Reply with only the reversed digits.",
+      "answer": "4044",
+      "completion": "4404",
+      "correct": 0.0
+    },
+    {
+      "id": "1544",
+      "prompt": "Reverse the digits of 1544. Reply with only the reversed digits.",
+      "answer": "4451",
+      "completion": "4415",
+      "correct": 0.0
+    },
+    {
+      "id": "9282",
+      "prompt": "Reverse the digits of 9282. Reply with only the reversed digits.",
+      "answer": "2829",
+      "completion": "2829",
+      "correct": 1.0
+    },
+    {
+      "id": "3640",
+      "prompt": "Reverse the digits of 3640. Reply with only the reversed digits.",
+      "answer": "0463",
+      "completion": "0463",
+      "correct": 1.0
+    },
+    {
+      "id": "6579",
+      "prompt": "Reverse the digits of 6579. Reply with only the reversed digits.",
+      "answer": "9756",
+      "completion": "9756",
+      "correct": 1.0
+    },
+    {
+      "id": "2025",
+      "prompt": "Reverse the digits of 2025. Reply with only the reversed digits.",
+      "answer": "5202",
+      "completion": "5202",
+      "correct": 1.0
+    },
+    {
+      "id": "4718",
+      "prompt": "Reverse the digits of 4718. Reply with only the reversed digits.",
+      "answer": "8174",
+      "completion": "8174",
+      "correct": 1.0
+    }
+  ]
+}

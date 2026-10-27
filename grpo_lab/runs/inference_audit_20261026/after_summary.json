@@ -1,0 +1,12 @@
+{
+  "variant": "after",
+  "n": 256,
+  "correct": 236,
+  "accuracy": 0.921875,
+  "elapsed_seconds": 50.71088075009175,
+  "historical_file": "/Users/fengjikui/Documents/dev-coding/codex_build/rl_research/grpo_lab/runs/llm_reverse/final_test_0020_256.json",
+  "historical_file_sha256": "12cafd350dfe071a60d87ba7fea1b930e9a90d3958ee4075a332be924be43e63",
+  "historical_output_mismatches": [],
+  "raw_file_sha256": "bccc0e7c4c3690d320ec0283e636d11a04799c5218dd7d7f2b34a20039cb7c73",
+  "parameter_count": 495114112
+}

@@ -1,0 +1,90 @@
+{
+  "config": {
+    "algo": "reinforce",
+    "updates": 300,
+    "seed": 0,
+    "out": "tutorials/runs/reinforce"
+  },
+  "metrics": {
+    "initial_success": 0.178,
+    "final_success": 1.0,
+    "random_success": 0.19,
+    "environment_steps": 96000,
+    "evaluation_episodes": 500
+  },
+  "history": [
+    {
+      "step": 0,
+      "success": 0.178
+    },
+    {
+      "step": 6400,
+      "success": 0.178
+    },
+    {
+      "step": 12800,
+      "success": 0.438
+    },
+    {
+      "step": 19200,
+      "success": 0.666
+    },
+    {
+      "step": 25600,
+      "success": 0.744
+    },
+    {
+      "step": 32000,
+      "success": 0.828
+    },
+    {
+      "step": 38400,
+      "success": 0.92
+    },
+    {
+      "step": 44800,
+      "success": 1.0
+    },
+    {
+      "step": 51200,
+      "success": 1.0
+    },
+    {
+      "step": 57600,
+      "success": 1.0
+    },
+    {
+      "step": 64000,
+      "success": 1.0
+    },
+    {
+      "step": 70400,
+      "success": 1.0
+    },
+    {
+      "step": 76800,
+      "success": 1.0
+    },
+    {
+      "step": 83200,
+      "success": 1.0
+    },
+    {
+      "step": 89600,
+      "success": 1.0
+    },
+    {
+      "step": 96000,
+      "success": 1.0
+    }
+  ],
+  "runtime": {
+    "python": "3.11.15",
+    "torch": "2.14.0",
+    "platform": "macOS-15.7.4-arm64-arm-64bit",
+    "device": "cpu",
+    "seconds": 1.183
+  },
+  "parameters": 8324,
+  "architecture": "ActorCritic(\n  (features): Backbone(\n    (net): Sequential(\n      (0): Flatten(start_dim=1, end_dim=-1)\n      (1): Linear(in_features=60, out_features=64, bias=True)\n      (2): Tanh()\n      (3): Linear(in_features=64, out_features=64, bias=True)\n      (4): Tanh()\n    )\n  )\n  (actor): Linear(in_features=64, out_features=3, bias=True)\n  (critic): Linear(in_features=64, out_features=1, bias=True)\n)"
+}

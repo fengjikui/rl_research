@@ -1,0 +1,93 @@
+{
+  "stage": "final_s000674292",
+  "step": 674292,
+  "policy": "epsilon-greedy (0.05); deterministic re-serve after each lost life",
+  "epsilon": 0.05,
+  "max_steps_per_episode": 4500,
+  "episodes": [
+    {
+      "seed": 30000,
+      "score": 15.0,
+      "steps": 659,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30001,
+      "score": 11.0,
+      "steps": 555,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30002,
+      "score": 10.0,
+      "steps": 449,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30003,
+      "score": 28.0,
+      "steps": 730,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30004,
+      "score": 15.0,
+      "steps": 596,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30005,
+      "score": 12.0,
+      "steps": 530,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30006,
+      "score": 13.0,
+      "steps": 602,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30007,
+      "score": 14.0,
+      "steps": 507,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30008,
+      "score": 14.0,
+      "steps": 360,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 30009,
+      "score": 23.0,
+      "steps": 723,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    }
+  ],
+  "mean_score": 15.5,
+  "std_score": 5.352569476429054,
+  "any_capped": false,
+  "video_scope": "episode 0 in full; preview GIF shows at most its first 600 decisions"
+}

@@ -1,0 +1,171 @@
+{
+  "n": 16,
+  "success": 0.0,
+  "policy": "greedy",
+  "records": [
+    {
+      "id": "reverse2-06",
+      "digits": "06",
+      "prompt": "Reverse the digits of 06. Reply with only the reversed digits.",
+      "answer": "60",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-96",
+      "digits": "96",
+      "prompt": "Reverse the digits of 96. Reply with only the reversed digits.",
+      "answer": "69",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-78",
+      "digits": "78",
+      "prompt": "Reverse the digits of 78. Reply with only the reversed digits.",
+      "answer": "87",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-40",
+      "digits": "40",
+      "prompt": "Reverse the digits of 40. Reply with only the reversed digits.",
+      "answer": "04",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-72",
+      "digits": "72",
+      "prompt": "Reverse the digits of 72. Reply with only the reversed digits.",
+      "answer": "27",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-39",
+      "digits": "39",
+      "prompt": "Reverse the digits of 39. Reply with only the reversed digits.",
+      "answer": "93",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-81",
+      "digits": "81",
+      "prompt": "Reverse the digits of 81. Reply with only the reversed digits.",
+      "answer": "18",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-64",
+      "digits": "64",
+      "prompt": "Reverse the digits of 64. Reply with only the reversed digits.",
+      "answer": "46",
+      "completion": "0<1>06",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-76",
+      "digits": "76",
+      "prompt": "Reverse the digits of 76. Reply with only the reversed digits.",
+      "answer": "67",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-53",
+      "digits": "53",
+      "prompt": "Reverse the digits of 53. Reply with only the reversed digits.",
+      "answer": "35",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-57",
+      "digits": "57",
+      "prompt": "Reverse the digits of 57. Reply with only the reversed digits.",
+      "answer": "75",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-43",
+      "digits": "43",
+      "prompt": "Reverse the digits of 43. Reply with only the reversed digits.",
+      "answer": "34",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-86",
+      "digits": "86",
+      "prompt": "Reverse the digits of 86. Reply with only the reversed digits.",
+      "answer": "68",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-27",
+      "digits": "27",
+      "prompt": "Reverse the digits of 27. Reply with only the reversed digits.",
+      "answer": "72",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-58",
+      "digits": "58",
+      "prompt": "Reverse the digits of 58. Reply with only the reversed digits.",
+      "answer": "85",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    },
+    {
+      "id": "reverse2-01",
+      "digits": "01",
+      "prompt": "Reverse the digits of 01. Reply with only the reversed digits.",
+      "answer": "10",
+      "completion": "0<1>04",
+      "correct": false,
+      "ended_by": "max_new_tokens_finite_horizon",
+      "generated_tokens": 4
+    }
+  ],
+  "checkpoint": "llm_ppo_lab/runs/final_tiny_v2_20261103/before.pt",
+  "split": "validation",
+  "rollout_batches": 0,
+  "policy_updates_during_inference": 0
+}

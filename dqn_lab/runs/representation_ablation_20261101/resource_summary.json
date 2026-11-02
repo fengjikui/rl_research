@@ -1,0 +1,11 @@
+{
+  "samples": 20,
+  "thermal_states": [
+    0
+  ],
+  "max_sampled_cpu_percent": 19.4,
+  "max_sampled_task_rss_gib": 0.36,
+  "min_sampled_available_gib": 16.17,
+  "paused_samples": 0,
+  "note": "Sampled values, not continuous peaks; no Celsius temperature measured."
+}

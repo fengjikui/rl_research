@@ -1,0 +1,22 @@
+{
+  "status": "completed",
+  "pid": 89854,
+  "started_at": "2026-11-02T22:28:58.525426+08:00",
+  "algo": "reinforce",
+  "environment": "CarRacing-v3",
+  "device": "cpu",
+  "step": 429,
+  "raw_steps": 429,
+  "updates": 8,
+  "completed_episodes": 17,
+  "elapsed_window_seconds": 3.239622291177511,
+  "latest_stage": "final_s000000429",
+  "last_metrics": {
+    "actor_loss": -30.10723304748535,
+    "critic_loss": 0.0,
+    "entropy": 1.609207034111023,
+    "loss": -30.123324712117512,
+    "approx_kl": 0.0,
+    "clip_fraction": 0.0
+  }
+}

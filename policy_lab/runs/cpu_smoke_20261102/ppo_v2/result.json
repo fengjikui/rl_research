@@ -1,0 +1,120 @@
+{
+  "status": "completed",
+  "algo": "ppo",
+  "step": 651,
+  "updates": 80,
+  "completed_episodes": 26,
+  "unfinished_training_scores": [
+    5.114657980456031
+  ],
+  "stages": [
+    {
+      "stage": "before_s000000000",
+      "step": 0,
+      "updates": 0,
+      "model_sha256": "5fa918f2dff767900af9dd8b4f6e8ebce1c73a84400420f1604ff11467399ddb",
+      "evaluation": {
+        "environment": "CarRacing-v3",
+        "policy": "greedy",
+        "episodes": [
+          {
+            "seed": 10000,
+            "score": 5.210256410256415,
+            "steps": 12,
+            "raw_steps": 12,
+            "terminated": false,
+            "truncated": false,
+            "capped": true
+          }
+        ],
+        "mean_score": 5.210256410256415,
+        "std_score": 0.0,
+        "max_steps": 12,
+        "any_capped": true,
+        "video_scope": "first evaluation episode in full, up to the explicit max_steps cap",
+        "score_scope": "raw summed environment rewards; no reward clipping/normalization"
+      }
+    },
+    {
+      "stage": "final_s000000541",
+      "step": 541,
+      "updates": 67,
+      "model_sha256": "6220e24c1e39b1b2d7b443c057515086869628e456dd033aa125c59f0d929a5c",
+      "evaluation": {
+        "environment": "CarRacing-v3",
+        "policy": "greedy",
+        "episodes": [
+          {
+            "seed": 10000,
+            "score": 5.210256410256415,
+            "steps": 12,
+            "raw_steps": 12,
+            "terminated": false,
+            "truncated": false,
+            "capped": true
+          }
+        ],
+        "mean_score": 5.210256410256415,
+        "std_score": 0.0,
+        "max_steps": 12,
+        "any_capped": true,
+        "video_scope": "first evaluation episode in full, up to the explicit max_steps cap",
+        "score_scope": "raw summed environment rewards; no reward clipping/normalization"
+      }
+    },
+    {
+      "stage": "resumed_s000000541",
+      "step": 541,
+      "updates": 67,
+      "model_sha256": "6220e24c1e39b1b2d7b443c057515086869628e456dd033aa125c59f0d929a5c",
+      "evaluation": {
+        "environment": "CarRacing-v3",
+        "policy": "greedy",
+        "episodes": [
+          {
+            "seed": 10000,
+            "score": 5.210256410256415,
+            "steps": 12,
+            "raw_steps": 12,
+            "terminated": false,
+            "truncated": false,
+            "capped": true
+          }
+        ],
+        "mean_score": 5.210256410256415,
+        "std_score": 0.0,
+        "max_steps": 12,
+        "any_capped": true,
+        "video_scope": "first evaluation episode in full, up to the explicit max_steps cap",
+        "score_scope": "raw summed environment rewards; no reward clipping/normalization"
+      }
+    },
+    {
+      "stage": "final_s000000651",
+      "step": 651,
+      "updates": 80,
+      "model_sha256": "b6a35da73dcb7819354cad0f196a85c2a0d19c53f2cf55a2825a458068a594dd",
+      "evaluation": {
+        "environment": "CarRacing-v3",
+        "policy": "greedy",
+        "episodes": [
+          {
+            "seed": 10000,
+            "score": 5.210256410256415,
+            "steps": 12,
+            "raw_steps": 12,
+            "terminated": false,
+            "truncated": false,
+            "capped": true
+          }
+        ],
+        "mean_score": 5.210256410256415,
+        "std_score": 0.0,
+        "max_steps": 12,
+        "any_capped": true,
+        "video_scope": "first evaluation episode in full, up to the explicit max_steps cap",
+        "score_scope": "raw summed environment rewards; no reward clipping/normalization"
+      }
+    }
+  ]
+}

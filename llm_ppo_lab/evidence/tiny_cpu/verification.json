@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-03T00:11:29.433033+08:00",
+  "unit_tests": 11,
+  "checks": [
+    {
+      "batch": "update_0001",
+      "reward_and_gae_numpy_recomputed": true,
+      "epoch0_actor_loss_recomputed": true
+    },
+    {
+      "batch": "update_0002",
+      "reward_and_gae_numpy_recomputed": true,
+      "epoch0_actor_loss_recomputed": true
+    }
+  ],
+  "rollout_batches": 2,
+  "optimizer_steps": 4,
+  "changed_policy_tensors": 20,
+  "frozen_reference_unchanged": true,
+  "checkpoint_resume_and_restricted_loading": true,
+  "before_success": 0.0,
+  "after_success": 0.0,
+  "scope": "CPU tiny causal LM pipeline only; zero task score, no capability improvement claim. Local randomly initialized micro-Qwen2+PEFT path tested separately; no pretrained 0.5B/CUDA training."
+}

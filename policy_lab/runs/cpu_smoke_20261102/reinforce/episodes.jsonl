@@ -1,0 +1,17 @@
+{"episode": 1, "env_index": 0, "step": 24, "score": 3.8695924764890357, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 2, "env_index": 0, "step": 48, "score": 4.7174377224199375, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 3, "env_index": 0, "step": 72, "score": 3.7919504643962925, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 4, "env_index": 0, "step": 96, "score": 4.2666666666666755, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 5, "env_index": 0, "step": 120, "score": 4.114657980456035, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 6, "env_index": 0, "step": 144, "score": 5.204562737642594, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 7, "env_index": 0, "step": 168, "score": 4.617543859649131, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 8, "env_index": 0, "step": 192, "score": 3.9897763578274845, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 9, "env_index": 0, "step": 216, "score": 5.090636704119858, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 10, "env_index": 0, "step": 240, "score": 4.768458781362016, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 11, "env_index": 0, "step": 264, "score": 4.2666666666666755, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 12, "env_index": 0, "step": 288, "score": 3.8500000000000076, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 13, "env_index": 0, "step": 312, "score": 4.496551724137939, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 14, "env_index": 0, "step": 336, "score": 4.3567567567567655, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 15, "env_index": 0, "step": 360, "score": 4.157377049180337, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 16, "env_index": 0, "step": 384, "score": 5.147169811320763, "episode_steps": 24, "terminated": false, "truncated": true}
+{"episode": 17, "env_index": 0, "step": 408, "score": 3.889308176100637, "episode_steps": 24, "terminated": false, "truncated": true}

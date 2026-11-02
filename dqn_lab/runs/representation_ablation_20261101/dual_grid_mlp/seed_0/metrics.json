@@ -1,0 +1,17 @@
+{
+  "variant": "dual_grid_mlp",
+  "seed": 0,
+  "final_success": 1.0,
+  "final_correct": 25,
+  "initial_success": 0.2,
+  "optimizer_updates": 2969,
+  "seconds": 2.274181874934584,
+  "normalized_auc": 0.6154166666666666,
+  "first_observed_threshold_step": {
+    "0.8": 8000,
+    "0.95": 9000,
+    "1.0": 9000
+  },
+  "checkpoint_reload_identical": true,
+  "initial_positions_sha256": "2bce8a646bac09e562446190a7e7ea1bd6fee71c70b09ce7508e69c1e268d8b5"
+}

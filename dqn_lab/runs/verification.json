@@ -1,0 +1,26 @@
+{
+  "catch_20261101": {
+    "batch_size": 64,
+    "raw_labels_and_huber_losses_recomputed": true,
+    "thermal_states": [
+      0
+    ],
+    "max_sampled_cpu_percent": 8.2,
+    "max_sampled_task_rss_gib": 0.39,
+    "min_sampled_available_gib": 16.72,
+    "paused_samples": 0
+  },
+  "breakout_smoke_20261101": {
+    "batch_size": 16,
+    "raw_labels_and_huber_losses_recomputed": true,
+    "thermal_states": [
+      0
+    ],
+    "max_sampled_cpu_percent": 9.0,
+    "max_sampled_task_rss_gib": 0.41,
+    "min_sampled_available_gib": 16.63,
+    "paused_samples": 0
+  },
+  "catch_checkpoint_reload_success": "25/25",
+  "scope": "One Catch seed, finite exhaustive initial states; Atari pipeline only, no solved-game claim."
+}

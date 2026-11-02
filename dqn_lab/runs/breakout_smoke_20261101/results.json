@@ -1,0 +1,16 @@
+{
+  "environment": "ALE/Breakout-v5",
+  "training_steps": 256,
+  "optimizer_updates": 49,
+  "before_capped_score": 0.0,
+  "after_capped_score": 0.0,
+  "eval_step_budget": 200,
+  "finished_training_episode_scores": [
+    0.0
+  ],
+  "last_unfinished_training_episode_score": 1.0,
+  "first_loss": 0.001076281419955194,
+  "last_loss": 4.327276030835492e-07,
+  "elapsed_seconds": 18.165963172912598,
+  "evidence_scope": "Short pipeline check; not evidence of learning to solve Breakout."
+}

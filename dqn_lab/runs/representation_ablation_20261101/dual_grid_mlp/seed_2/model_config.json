@@ -1,0 +1,11 @@
+{
+  "variant": "dual_grid_mlp",
+  "seed": 2,
+  "architecture": "QNet(\n  (features): Backbone(\n    (net): Sequential(\n      (0): Flatten(start_dim=1, end_dim=-1)\n      (1): Linear(in_features=60, out_features=64, bias=True)\n      (2): Tanh()\n      (3): Linear(in_features=64, out_features=64, bias=True)\n      (4): Tanh()\n    )\n  )\n  (head): Linear(in_features=64, out_features=3, bias=True)\n)",
+  "parameters": 8259,
+  "input_shape": [
+    2,
+    6,
+    5
+  ]
+}

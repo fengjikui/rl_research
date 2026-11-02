@@ -1,0 +1,12 @@
+{
+  "update": 1,
+  "step": 48,
+  "batch_size": 48,
+  "behavior_old_logp_sha256": "02c7b990c07826f775f505b44f974170513b80fe954830087c0a9d5629a3a63b",
+  "actor_loss": -30.682945251464844,
+  "critic_loss": 0.0,
+  "entropy": 1.6094336708386738,
+  "loss": -30.699039459228516,
+  "approx_kl": 0.0,
+  "clip_fraction": 0.0
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "runs": 20,
+  "total_saved_evaluation_episodes": 13000,
+  "all_recorded_actions_replayed_against_independent_position_arithmetic": true,
+  "all_recorded_success_rates_recomputed": true,
+  "all_auc_and_thresholds_recomputed": true,
+  "all_first_batch_td_labels_and_huber_losses_recomputed": true,
+  "same_environment_initial_sequence_across_variants_for_each_seed": true,
+  "optimizer_updates_per_run": 2969,
+  "checkpoint_reload_verified_during_each_run": true,
+  "scope": "Fixed-budget finite Catch task; architecture and parameter-count confounding disclosed."
+}

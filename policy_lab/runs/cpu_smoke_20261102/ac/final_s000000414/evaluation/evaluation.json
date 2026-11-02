@@ -1,0 +1,21 @@
+{
+  "environment": "CarRacing-v3",
+  "policy": "greedy",
+  "episodes": [
+    {
+      "seed": 10000,
+      "score": 5.210256410256415,
+      "steps": 12,
+      "raw_steps": 12,
+      "terminated": false,
+      "truncated": false,
+      "capped": true
+    }
+  ],
+  "mean_score": 5.210256410256415,
+  "std_score": 0.0,
+  "max_steps": 12,
+  "any_capped": true,
+  "video_scope": "first evaluation episode in full, up to the explicit max_steps cap",
+  "score_scope": "raw summed environment rewards; no reward clipping/normalization"
+}

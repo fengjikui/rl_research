@@ -43,21 +43,23 @@ def snapshot(pid=None):
                 task_rss_gib=round(rss/2**30, 2), load1=os.getloadavg()[0])
 
 
-def pressure(s):
-    return (s['thermal_state'] is not None and s['thermal_state'] >= 1) or s['cpu_percent'] > 75 or s['available_gib'] < 6 or s['task_rss_gib'] > 9
+def pressure(s, thermal_pause_at=1):
+    return (s['thermal_state'] is not None and s['thermal_state'] >= thermal_pause_at) or s['cpu_percent'] > 75 or s['available_gib'] < 6 or s['task_rss_gib'] > 9
 
 
 def main():
     p = argparse.ArgumentParser()
     p.add_argument('--log', required=True)
     p.add_argument('--max-seconds', type=int, default=1800)
+    p.add_argument('--thermal-pause-at',type=int,choices=[1,2,3],default=1,
+                   help='macOS thermal state at which to pause: 1=fair, 2=serious, 3=critical')
     p.add_argument('command', nargs=argparse.REMAINDER)
     args = p.parse_args()
     command = args.command[1:] if args.command[:1] == ['--'] else args.command
     if not command: p.error('provide a command after --')
     log = Path(args.log); log.parent.mkdir(parents=True, exist_ok=True)
     initial = snapshot()
-    if pressure(initial): raise SystemExit(f'Not starting under resource pressure: {initial}')
+    if pressure(initial,args.thermal_pause_at): raise SystemExit(f'Not starting under resource pressure: {initial}')
     env = dict(os.environ, OMP_NUM_THREADS='2', MKL_NUM_THREADS='2',
                OPENBLAS_NUM_THREADS='2', TOKENIZERS_PARALLELISM='false')
     process = subprocess.Popen(['nice', '-n', '10', *command], env=env, start_new_session=True)
@@ -69,12 +71,12 @@ def main():
     try:
         while process.poll() is None:
             s = snapshot(process.pid)
-            if pressure(s) and not paused:
+            if pressure(s,args.thermal_pause_at) and not paused:
                 os.killpg(process.pid, signal.SIGSTOP)
                 paused = True; good = 0
                 print('GUARD pause', s, flush=True)
             elif paused:
-                good = good+1 if not pressure(s) else 0
+                good = good+1 if not pressure(s,args.thermal_pause_at) else 0
                 if good >= 4:
                     os.killpg(process.pid, signal.SIGCONT)
                     paused = False

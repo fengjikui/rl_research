@@ -1,0 +1,34 @@
+{
+  "policy": "greedy; deterministic re-serve after each lost life",
+  "max_steps_per_episode": 4500,
+  "episodes": [
+    {
+      "seed": 10000,
+      "score": 9.0,
+      "steps": 345,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 10001,
+      "score": 9.0,
+      "steps": 345,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    },
+    {
+      "seed": 10002,
+      "score": 9.0,
+      "steps": 345,
+      "terminated": true,
+      "truncated": false,
+      "capped": false
+    }
+  ],
+  "mean_score": 9.0,
+  "std_score": 0.0,
+  "any_capped": false,
+  "video_scope": "episode 0 in full; preview GIF shows at most its first 600 decisions"
+}

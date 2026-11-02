@@ -1,0 +1,17 @@
+{
+  "variant": "dual_grid_cnn",
+  "seed": 4,
+  "final_success": 1.0,
+  "final_correct": 25,
+  "initial_success": 0.2,
+  "optimizer_updates": 2969,
+  "seconds": 5.966506791766733,
+  "normalized_auc": 0.9245833333333333,
+  "first_observed_threshold_step": {
+    "0.8": 2000,
+    "0.95": 2000,
+    "1.0": 2000
+  },
+  "checkpoint_reload_identical": true,
+  "initial_positions_sha256": "6d07179b0aee1bd84bbe221350af52ad56c7179470e275a058c035899e7eee71"
+}

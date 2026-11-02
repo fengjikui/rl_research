@@ -1,0 +1,56 @@
+[
+  {
+    "stage": "before_s000000000",
+    "step": 0,
+    "updates": 0,
+    "model_sha256": "5fa918f2dff767900af9dd8b4f6e8ebce1c73a84400420f1604ff11467399ddb",
+    "evaluation": {
+      "environment": "CarRacing-v3",
+      "policy": "greedy",
+      "episodes": [
+        {
+          "seed": 10000,
+          "score": 5.210256410256415,
+          "steps": 12,
+          "raw_steps": 12,
+          "terminated": false,
+          "truncated": false,
+          "capped": true
+        }
+      ],
+      "mean_score": 5.210256410256415,
+      "std_score": 0.0,
+      "max_steps": 12,
+      "any_capped": true,
+      "video_scope": "first evaluation episode in full, up to the explicit max_steps cap",
+      "score_scope": "raw summed environment rewards; no reward clipping/normalization"
+    }
+  },
+  {
+    "stage": "final_s000000414",
+    "step": 414,
+    "updates": 51,
+    "model_sha256": "6b1f117ff1d1d3ae0730714245be0dcb4c889a9a154bc524e2602f251ff960d1",
+    "evaluation": {
+      "environment": "CarRacing-v3",
+      "policy": "greedy",
+      "episodes": [
+        {
+          "seed": 10000,
+          "score": 5.210256410256415,
+          "steps": 12,
+          "raw_steps": 12,
+          "terminated": false,
+          "truncated": false,
+          "capped": true
+        }
+      ],
+      "mean_score": 5.210256410256415,
+      "std_score": 0.0,
+      "max_steps": 12,
+      "any_capped": true,
+      "video_scope": "first evaluation episode in full, up to the explicit max_steps cap",
+      "score_scope": "raw summed environment rewards; no reward clipping/normalization"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "passed": true,
+  "scope": "Real CarRacing CPU smoke; model reload probabilities, raw score sums and GAE checked independently; no learning-performance claim",
+  "results": [
+    {
+      "algorithm": "ppo",
+      "step": 541,
+      "updates": 67,
+      "changed_parameter_tensors": 12,
+      "verified_stages": 2
+    },
+    {
+      "algorithm": "ac",
+      "step": 414,
+      "updates": 51,
+      "changed_parameter_tensors": 12,
+      "verified_stages": 2
+    },
+    {
+      "algorithm": "reinforce",
+      "step": 429,
+      "updates": 8,
+      "changed_parameter_tensors": 10,
+      "verified_stages": 2
+    }
+  ],
+  "resource": {
+    "time": "2026-11-02T22:29:34.174502+08:00",
+    "thermal_state": 0,
+    "cpu_percent": 6.7,
+    "available_gib": 15.01,
+    "memory_percent": 76.6,
+    "task_rss_gib": 0.0,
+    "load1": 2.89453125
+  },
+  "ppo_resume": {
+    "passed": true,
+    "from_step": 541,
+    "from_updates": 67,
+    "to_step": 651,
+    "to_updates": 80,
+    "restored_model_sha256_matches_previous_final": true
+  },
+  "counter_correction": {
+    "legacy_updates_meaning": "number of sampled batches optimized, not optimizer.step calls",
+    "first_snapshot_derived_counters": {
+      "ppo": {
+        "rollout_updates": 67,
+        "optimizer_steps_derived": 134,
+        "method": "derived from original update-log batch sizes and recorded epochs/minibatch_size; original fields unchanged",
+        "config": "ppo_v2/config.json",
+        "update_log": "ppo_v2/updates.jsonl"
+      },
+      "ac": {
+        "rollout_updates": 51,
+        "optimizer_steps_derived": 51,
+        "method": "derived from original update-log batch sizes and recorded epochs/minibatch_size; original fields unchanged",
+        "config": "ac/config.json",
+        "update_log": "ac/updates.jsonl"
+      },
+      "reinforce": {
+        "rollout_updates": 8,
+        "optimizer_steps_derived": 8,
+        "method": "derived from original update-log batch sizes and recorded epochs/minibatch_size; original fields unchanged",
+        "config": "reinforce/config.json",
+        "update_log": "reinforce/updates.jsonl"
+      }
+    },
+    "ppo_resume_derived": {
+      "from_rollout_updates": 67,
+      "to_rollout_updates": 80,
+      "from_optimizer_steps": 134,
+      "to_optimizer_steps": 160
+    }
+  }
+}

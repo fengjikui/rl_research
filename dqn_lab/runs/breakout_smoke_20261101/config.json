@@ -1,0 +1,28 @@
+{
+  "out": "dqn_lab/runs/breakout_smoke_20261101",
+  "steps": 256,
+  "learning_starts": 64,
+  "buffer_size": 1000,
+  "batch_size": 16,
+  "eval_steps": 200,
+  "seed": 0,
+  "action_names": [
+    "NOOP",
+    "FIRE",
+    "RIGHT",
+    "LEFT"
+  ],
+  "parameters": 1686180,
+  "input_shape": [
+    4,
+    84,
+    84
+  ],
+  "network": "NatureQNet(\n  (net): Sequential(\n    (0): Conv2d(4, 32, kernel_size=(8, 8), stride=(4, 4))\n    (1): ReLU()\n    (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))\n    (3): ReLU()\n    (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))\n    (5): ReLU()\n    (6): Flatten(start_dim=1, end_dim=-1)\n    (7): Linear(in_features=3136, out_features=512, bias=True)\n    (8): ReLU()\n    (9): Linear(in_features=512, out_features=4, bias=True)\n  )\n)",
+  "torch": "2.14.0",
+  "gymnasium": "1.4.0",
+  "ale_py": "0.12.1",
+  "reward_for_learning": "sign(raw_reward)",
+  "termination": "full game; bootstrap time-limit truncations",
+  "protocol": "teaching implementation, not an exact reproduction of 2015 scores"
+}

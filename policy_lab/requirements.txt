@@ -1,0 +1,8 @@
+# Install a suitable CPU/CUDA PyTorch wheel separately when the server requires it.
+torch>=2.1
+gymnasium>=1.0,<2
+Box2D==2.3.10
+pygame>=2.5
+numpy>=1.26
+Pillow>=10
+psutil>=5.9

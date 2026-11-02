@@ -1,0 +1,2 @@
+{"time": "2026-11-01T22:38:15.001297+08:00", "thermal_state": 0, "cpu_percent": 9.7, "available_gib": 16.3, "memory_percent": 74.5, "task_rss_gib": 0.01, "load1": 2.53173828125, "paused": false}
+{"time": "2026-11-01T22:38:20.212236+08:00", "thermal_state": 0, "cpu_percent": 3.7, "available_gib": 16.29, "memory_percent": 74.6, "task_rss_gib": 0.0, "load1": 2.40869140625, "event": "completed", "returncode": 0}

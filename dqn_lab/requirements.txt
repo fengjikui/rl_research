@@ -1,0 +1,6 @@
+-r ../tutorials/requirements.txt
+gymnasium[atari]>=1.0,<2
+ale-py>=0.10,<1
+opencv-python-headless>=4.10,<5
+psutil>=6,<8
+pygame>=2.6,<3

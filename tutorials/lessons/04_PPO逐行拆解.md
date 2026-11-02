@@ -8,6 +8,8 @@ python tutorials/code/03_policy_gradient.py --algo ppo --out tutorials/runs/my_p
 
 仍然是同一个 ActorCritic。rollout 时记录 `old_logp`，更新时计算 `new_logp`。两者对应同一状态下同一个已采样动作。
 
+先看一个数字：某个动作采样时概率为 0.20，现在网络给它 0.24，概率比就是 0.24/0.20=1.2。若它的优势是 +2，未裁剪目标为 1.2×2=2.4；优势表示这次动作表现比预期好。PPO 接下来要控制的，是反复使用这批旧经历时，对提高或降低这些动作概率的鼓励。
+
 ```python
 ratio = (new_logp - old_logp).exp()
 unclipped = ratio * advantages

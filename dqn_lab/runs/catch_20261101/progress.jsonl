@@ -1,0 +1,8 @@
+{"step": 0, "updates": 0, "success": 0.2}
+{"step": 250, "updates": 31, "success": 0.24}
+{"step": 500, "updates": 94, "success": 0.4}
+{"step": 1000, "updates": 219, "success": 0.24}
+{"step": 2000, "updates": 469, "success": 0.56}
+{"step": 4000, "updates": 969, "success": 0.36}
+{"step": 8000, "updates": 1969, "success": 0.84}
+{"step": 12000, "updates": 2969, "success": 1.0}

@@ -1,0 +1,17 @@
+{
+  "variant": "coordinates_mlp",
+  "seed": 2,
+  "final_success": 1.0,
+  "final_correct": 25,
+  "initial_success": 0.16,
+  "optimizer_updates": 2969,
+  "seconds": 2.2574548749253154,
+  "normalized_auc": 0.5429166666666667,
+  "first_observed_threshold_step": {
+    "0.8": 9000,
+    "0.95": 10000,
+    "1.0": 10000
+  },
+  "checkpoint_reload_identical": true,
+  "initial_positions_sha256": "82f3b9e60d1d7579f3e3474ccc5f6a46a11b0bb8d395ab94e0d17f0d5588dfd8"
+}

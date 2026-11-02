@@ -1,0 +1,40 @@
+{
+  "coordinates_mlp": {
+    "encoded_shape": [
+      3
+    ],
+    "distinct_states": 150,
+    "checked_states": 150,
+    "terminal_overlap_preserved": true
+  },
+  "dual_grid_mlp": {
+    "encoded_shape": [
+      2,
+      6,
+      5
+    ],
+    "distinct_states": 150,
+    "checked_states": 150,
+    "terminal_overlap_preserved": true
+  },
+  "dual_grid_cnn": {
+    "encoded_shape": [
+      2,
+      6,
+      5
+    ],
+    "distinct_states": 150,
+    "checked_states": 150,
+    "terminal_overlap_preserved": true
+  },
+  "signed_grid_cnn": {
+    "encoded_shape": [
+      1,
+      6,
+      5
+    ],
+    "distinct_states": 150,
+    "checked_states": 150,
+    "terminal_overlap_preserved": true
+  }
+}

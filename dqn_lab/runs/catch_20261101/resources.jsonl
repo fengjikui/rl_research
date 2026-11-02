@@ -1,0 +1,3 @@
+{"time": "2026-11-01T13:39:11.550467+08:00", "thermal_state": 0, "cpu_percent": 7.9, "available_gib": 16.91, "memory_percent": 73.6, "task_rss_gib": 0.0, "load1": 1.83056640625, "paused": false}
+{"time": "2026-11-01T13:39:16.770539+08:00", "thermal_state": 0, "cpu_percent": 8.2, "available_gib": 16.72, "memory_percent": 73.9, "task_rss_gib": 0.39, "load1": 2.8046875, "paused": false}
+{"time": "2026-11-01T13:39:21.981125+08:00", "thermal_state": 0, "cpu_percent": 4.5, "available_gib": 16.87, "memory_percent": 73.6, "task_rss_gib": 0.0, "load1": 3.060546875, "event": "completed", "returncode": 0}

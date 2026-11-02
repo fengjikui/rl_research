@@ -17,3 +17,17 @@ grpo_lab/runs/**/adapter/
 .env
 .env.*
 !.env.example
+dqn_lab/runs/**/*.pt
+dqn_lab/runs/**/replay/
+policy_lab/runs/**/*.pt
+policy_lab/.venv/
+
+# Long Atari runs stay local. Publish a curated evidence bundle instead.
+dqn_lab/runs/breakout_mps_*/
+dqn_lab/runs/rainbow*/
+dqn_lab/runs/milestone_evaluation_preflight_*/
+llm_ppo_lab/runs/**/*.pt
+llm_ppo_lab/runs/**/adapter/
+llm_ppo_lab/runs/
+llm_ppo_lab/.cache/
+robotics_lab/upstream/

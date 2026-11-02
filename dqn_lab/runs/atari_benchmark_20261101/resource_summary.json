@@ -1,0 +1,21 @@
+{
+  "samples": 6,
+  "thermal_states": [
+    0
+  ],
+  "max_cpu_percent": 12.5,
+  "min_available_gib": 15.44,
+  "max_task_rss_gib": 0.7,
+  "pauses": 0,
+  "completion": {
+    "time": "2026-11-01T22:16:42.522292+08:00",
+    "thermal_state": 0,
+    "cpu_percent": 0.0,
+    "available_gib": 16.93,
+    "memory_percent": 73.5,
+    "task_rss_gib": 0.0,
+    "load1": 2.6474609375,
+    "event": "completed",
+    "returncode": 0
+  }
+}

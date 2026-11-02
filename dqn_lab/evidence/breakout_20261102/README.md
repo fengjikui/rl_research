@@ -4,7 +4,7 @@
 
 - [全部已保存阶段的分数与配置](stage_scores.json)：包含中间回落；不是挑选最佳结果后的平均。
 - [DQN 最佳阶段完整首局录像](dqn/best/play.mp4)：318 分、1830 个决策，原始奖励逐步记录见 [JSONL](dqn/best/episode_00.jsonl)，[模型权重](dqn/best/model.pt)用于推理，不用于恢复训练。
-- [DQN 早期首局录像](dqn/early/play.mp4)：训练约五分钟，9 分。
+- [DQN 训练前完整首局录像](dqn/before/play.mp4)：0 分。训练约五分钟的9分阶段保留了[原始评分与动作](dqn/early/evaluation.json)，该阶段旧录像已按留存规则精简，不能提供其原视频。
 - [Rainbow 最佳阶段首局录像](rainbow/best/play.mp4)与[原始逐步奖励](rainbow/best/episode_00.jsonl)：准确分数见 evaluation.json，不代表稳定达到该水平。
 - [DQN 曲线](dqn_curve.png)、[Rainbow 曲线](rainbow_curve.png)。
 

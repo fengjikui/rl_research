@@ -1,10 +1,10 @@
 # 在 NVIDIA 服务器上准备 Go2 仿真训练
 
-本页是已经核对源码与官方说明的运行方案，**不是本项目已完成的服务器实测记录**。本机长训练已停止；这些步骤供之后可访问的 NVIDIA Linux 服务器执行。
+本页保留通用的 NVIDIA Linux 运行流程。AutoDL 实例上的安装细节和实测步骤见 [AutoDL 配置教程](01_AutoDL从开机到IsaacLab.md) 和 [Go2 训练与回放教程](02_Go2从短测到回放.md)。
 
 ## 1 固定一套版本再安装
 
-本教程选择 Isaac Lab **v2.3.2**（commit `37ddf626871758333d6ed89cf64ad702aef127d0`）与其依赖的 RSL-RL **3.1.2**。对应官方 pip 安装指南使用 **Isaac Sim 5.1.0、Python 3.11**；Linux x86_64 示例为 PyTorch 2.7.0 + CUDA 12.8。先按这一版本的官方安装步骤核验驱动、系统、Python 与包版本，不直接把本项目 Mac 上的 `.venv` 复制过去。[版本安装文档](https://isaac-sim.github.io/IsaacLab/v2.3.2/source/setup/installation/pip_installation.html)。
+本教程选择 Isaac Lab **v2.3.2**（commit `37ddf626871758333d6ed89cf64ad702aef127d0`）与其依赖的 RSL-RL **3.1.2**。对应官方 pip 安装指南使用 **Isaac Sim 5.1.0、Python 3.11**；Linux x86_64 示例为 PyTorch 2.7.0 + CUDA 12.8。先按这一版本的官方安装步骤核验驱动、系统、Python 与包版本，不直接把本项目 Mac 上的 `.venv` 复制过去。[版本安装文档](https://isaac-sim.github.io/IsaacLab/v2.3.2/source/setup/quickstart.html)。
 
 单张 4090 可作为这种任务的候选工作站显卡，但可开多少只狗、多少时间达到好效果，要由所选场景、驱动、可用显存和实际吞吐决定。开始先用少量环境检查；不要一上来照搬默认 4096 个环境，也不承诺半小时一定学会。
 

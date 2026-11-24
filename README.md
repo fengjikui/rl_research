@@ -1,5 +1,10 @@
 # 从强化学习到大模型与智能体
 
+## 最新报告与机器人实验
+
+- [大语言模型强化学习报告素材](llm_rl_report/README.md) 包含 InstructGPT 开场、基础术语与例子、策略梯度算例。
+- [宇树 Go2 与 G1 的 PPO 仿真实验](robotics_lab/README.md) 包含 AutoDL 配置、Go2 训练与回放、步态实验及相关代码。
+
 ## 2026 年 11 月 3 日的阅读入口
 
 建议先读[从游戏到语言模型的策略梯度读码路线](docs/11_从游戏到语言模型的策略梯度读码路线.md)：它按具体例子、概念、张量与代码逐层展开，不要求先记住算法年表。
@@ -9,7 +14,7 @@
 | 游戏策略梯度 | [REINFORCE → Actor–Critic → PPO](policy_lab/README.md) | 真实 CarRacing 的 CPU 流程短测、权重重载、原始奖励与 GAE；不是已学会赛车 |
 | 语言模型 PPO | [逐步讲解奖励、回报与优势](llm_ppo_lab/逐步讲解_LLM的奖励回报与PPO.md) · [手写代码](llm_ppo_lab/README.md) | 微型因果 LM 与本地随机小 Qwen 的计算/保存检查；真实预训练 Qwen CUDA 训练尚未实测 |
 | 语言模型 GRPO | [已完成的 Qwen＋LoRA 实验](grpo_lab/README.md) | 四位数字反转的真实训练前后逐题证据，任务范围较窄 |
-| 宇树 Go2 | [官方代码逐步导读与 NVIDIA 运行步骤](robotics_lab/README.md) | 固定版本源码核对，尚未运行物理仿真或训练，不提供 A3 移植承诺 |
+| 宇树 Go2 | [官方代码逐步导读与 NVIDIA 运行步骤](robotics_lab/README.md) | 固定版本源码导读和 AutoDL 仿真训练记录 |
 | DQN 与 Rainbow | [代码](dqn_lab/README.md) · [精选录像与原始分数](dqn_lab/evidence/breakout_20261102/README.md) | 实际 MPS 训练记录；目前同等时间下基础 DQN 更快，不能宣称 Rainbow 已胜出 |
 
 本机长训练已按用户要求停止，自动续训已关闭。公开仓库包含教学代码、文档和精选原始证据；大型回放池、长程日志与优化器状态留在本机。详见[本次评审与验证记录](docs/12_本次代码与讲义评审记录.md)。
